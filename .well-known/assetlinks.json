@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.krakenudo.reminder_app",
+    "sha256_cert_fingerprints": ["26:BC:4D:18:23:20:AE:43:AB:48:B4:D6:24:B2:4B:C7:89:16:63:E1:30:58:2C:3B:F6:62:85:23:3B:64:80:E7"]
+  }
+}]

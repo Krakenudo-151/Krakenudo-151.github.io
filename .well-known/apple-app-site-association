@@ -1,0 +1,9 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [{
+      "appID": "Y8W4XVYBZ3.com.krakenudo.reminderApp",
+      "paths": ["/invitation/*"]
+    }]
+  }
+}

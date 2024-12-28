@@ -5,40 +5,78 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Política de Privacidad - ReminderApp</title>
     <style>
+        :root {
+            --primary-color: #2c5282;
+            --text-color: #333;
+            --bg-color: #fff;
+            --container-bg: #fff;
+            --shadow-color: rgba(0,0,0,0.1);
+        }
+
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --primary-color: #90cdf4;
+                --text-color: #e2e8f0;
+                --bg-color: #1a202c;
+                --container-bg: #2d3748;
+                --shadow-color: rgba(0,0,0,0.3);
+            }
+        }
+
         body {
             font-family: system-ui, -apple-system, sans-serif;
             line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+        }
+
+        .container {
             max-width: 800px;
             margin: 0 auto;
-            padding: 20px;
-            color: #333;
+            background: var(--container-bg);
+            padding: 2em;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px var(--shadow-color);
         }
-        h1, h2 {
-            color: #2c5282;
+
+        h1, h2, h3 {
+            color: var(--primary-color);
         }
+
+        h1 {
+            text-align: center;
+            border-bottom: 2px solid var(--primary-color);
+            padding-bottom: 0.5em;
+        }
+
+        h2 {
+            margin-top: 1.5em;
+        }
+
         section {
             margin-bottom: 2em;
         }
-        .container {
-            background: white;
-            padding: 2em;
-            border-radius: 8px;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+
+        ul {
+            padding-left: 1.5em;
         }
+
         .updated {
+            text-align: center;
             color: #666;
             font-style: italic;
+            margin-bottom: 2em;
         }
-        @media (prefers-color-scheme: dark) {
+
+        @media (max-width: 600px) {
             body {
-                background: #1a202c;
-                color: #e2e8f0;
+                padding: 10px;
             }
+            
             .container {
-                background: #2d3748;
-            }
-            h1, h2 {
-                color: #90cdf4;
+                padding: 1em;
             }
         }
     </style>
@@ -51,21 +89,138 @@
         </header>
 
         <main>
-            <section id="introduccion">
+            <section>
                 <h2>1. Introducción</h2>
                 <p>Bienvenido a ReminderApp. Esta Política de Privacidad explica cómo recopilamos, utilizamos, divulgamos y protegemos su información cuando utiliza nuestra aplicación móvil.</p>
             </section>
 
-            <!-- El resto de las secciones de la política de privacidad -->
-            <!-- Agregar el contenido del artifact privacy-policy aquí -->
-        </main>
+            <section>
+                <h2>2. Información que Recopilamos</h2>
+                
+                <h3>2.1 Información proporcionada directamente:</h3>
+                <ul>
+                    <li>Correo electrónico</li>
+                    <li>Nombre de perfil</li>
+                    <li>Foto de perfil (opcional)</li>
+                    <li>Alias de usuario</li>
+                </ul>
 
-        <footer>
-            <p>Si tiene alguna pregunta sobre esta política de privacidad, puede contactarnos a través de:</p>
-            <ul>
-                <li>Email: group_reminder_app@gmail.com</li>
-            </ul>
-        </footer>
+                <h3>2.2 Información recopilada automáticamente:</h3>
+                <ul>
+                    <li>Datos de uso de la aplicación</li>
+                    <li>Identificadores de dispositivo</li>
+                    <li>Datos de registro (logs)</li>
+                    <li>Información sobre la sesión</li>
+                    <li>Datos de rendimiento de la aplicación</li>
+                </ul>
+
+                <h3>2.3 Información para publicidad:</h3>
+                <ul>
+                    <li>Identificadores de publicidad</li>
+                    <li>Preferencias de anuncios</li>
+                    <li>Interacciones con anuncios</li>
+                </ul>
+            </section>
+
+            <section>
+                <h2>3. Uso de la Información</h2>
+                <p>Utilizamos la información recopilada para:</p>
+                <ul>
+                    <li>Proporcionar y mantener nuestro servicio</li>
+                    <li>Permitir la creación y gestión de recordatorios</li>
+                    <li>Facilitar la colaboración entre usuarios</li>
+                    <li>Enviar notificaciones relacionadas con recordatorios</li>
+                    <li>Mostrar publicidad relevante (solo banners)</li>
+                    <li>Mejorar y optimizar nuestra aplicación</li>
+                    <li>Prevenir actividades fraudulentas</li>
+                    <li>Cumplir con obligaciones legales</li>
+                </ul>
+            </section>
+
+            <section>
+                <h2>4. Compartición de Datos</h2>
+                
+                <h3>4.1 Proveedores de servicios:</h3>
+                <ul>
+                    <li>Google Firebase (almacenamiento y autenticación)</li>
+                    <li>Google Analytics (análisis de uso)</li>
+                    <li>Google AdMob (publicidad)</li>
+                </ul>
+
+                <h3>4.2 Circunstancias especiales:</h3>
+                <ul>
+                    <li>Cuando sea requerido por ley</li>
+                    <li>Para proteger nuestros derechos</li>
+                    <li>En caso de reorganización empresarial</li>
+                </ul>
+            </section>
+
+            <section>
+                <h2>5. Sus Derechos GDPR</h2>
+                <p>Como usuario en la UE, tiene derecho a:</p>
+                <ul>
+                    <li>Acceder a sus datos personales</li>
+                    <li>Rectificar datos inexactos</li>
+                    <li>Solicitar la eliminación de sus datos</li>
+                    <li>Oponerse al procesamiento</li>
+                    <li>Portabilidad de datos</li>
+                    <li>Retirar el consentimiento</li>
+                </ul>
+            </section>
+
+            <section>
+                <h2>6. Seguridad de Datos</h2>
+                <p>Implementamos medidas de seguridad incluyendo:</p>
+                <ul>
+                    <li>Cifrado de datos</li>
+                    <li>Firebase App Check</li>
+                    <li>Autenticación segura</li>
+                    <li>Monitoreo regular</li>
+                    <li>Actualizaciones de seguridad</li>
+                </ul>
+            </section>
+
+            <section>
+                <h2>7. Menores</h2>
+                <p>No recopilamos intencionalmente información de menores de 16 años. Si descubrimos que hemos recopilado datos de un menor, los eliminaremos inmediatamente.</p>
+            </section>
+
+            <section>
+                <h2>8. Cambios en esta Política</h2>
+                <p>Podemos actualizar esta política ocasionalmente. Las modificaciones entrarán en vigor cuando se publiquen en la aplicación.</p>
+            </section>
+
+            <section>
+                <h2>9. Publicidad</h2>
+                
+                <h3>9.1 Política de anuncios:</h3>
+                <ul>
+                    <li>Solo mostramos anuncios tipo banner</li>
+                    <li>No utilizamos anuncios intersticiales ni de pantalla completa</li>
+                    <li>Los anuncios son proporcionados por Google AdMob</li>
+                </ul>
+
+                <h3>9.2 Datos para publicidad:</h3>
+                <ul>
+                    <li>ID de publicidad del dispositivo</li>
+                    <li>Datos de interacción con anuncios</li>
+                    <li>Información no personal para segmentación</li>
+                </ul>
+            </section>
+
+            <section>
+                <h2>10. Contacto</h2>
+                <p>Para cualquier consulta sobre esta política o sus datos personales:</p>
+                <ul>
+                    <li>Email: group_reminder_app@gmail.com</li>
+                </ul>
+            </section>
+
+            <section>
+                <h2>11. Consentimiento</h2>
+                <p>Al utilizar nuestra aplicación, usted acepta la recopilación y uso de información de acuerdo con esta política. El consentimiento para el procesamiento de datos personales puede ser retirado en cualquier momento.</p>
+            </section>
+        </main>
     </div>
 </body>
 </html>

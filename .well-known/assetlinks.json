@@ -1,8 +1,15 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.krakenudo.reminder_app",
-    "sha256_cert_fingerprints": ["26:BC:4D:18:23:20:AE:43:AB:48:B4:D6:24:B2:4B:C7:89:16:63:E1:30:58:2C:3B:F6:62:85:23:3B:64:80:E7"]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.krakenudo.reminder_app",
+      "sha256_cert_fingerprints": [
+        "A3:2C:54:62:D4:3A:5B:92:39:9B:FB:E8:FC:4A:BA:92:5A:34:10:1E:F2:94:36:2A:EB:C3:1E:FD:15:BC:DF:A3"
+      ]
+    }
   }
-}]
+]

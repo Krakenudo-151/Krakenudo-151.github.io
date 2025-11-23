@@ -3,7 +3,10 @@
     "apps": [],
     "details": [{
       "appID": "Y8W4XVYBZ3.com.krakenudo.reminderApp",
-      "paths": ["/invitation/*"]
+      "paths": ["/invitation", "/invitation/*"]
     }]
+  },
+  "webcredentials": {
+    "apps": ["Y8W4XVYBZ3.com.krakenudo.reminderApp"]
   }
 }

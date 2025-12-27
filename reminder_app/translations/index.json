@@ -1,0 +1,61 @@
+{
+  "languages": [
+    {
+      "code": "de",
+      "name": "Deutsch",
+      "nativeName": "Deutsch"
+    },
+    {
+      "code": "el",
+      "name": "Greek",
+      "nativeName": "Ελληνικά"
+    },
+    {
+      "code": "en",
+      "name": "English",
+      "nativeName": "English"
+    },
+    {
+      "code": "es",
+      "name": "Spanish",
+      "nativeName": "Español"
+    },
+    {
+      "code": "fr",
+      "name": "French",
+      "nativeName": "Français"
+    },
+    {
+      "code": "it",
+      "name": "Italian",
+      "nativeName": "Italiano"
+    },
+    {
+      "code": "nl",
+      "name": "Dutch",
+      "nativeName": "Nederlands"
+    },
+    {
+      "code": "pl",
+      "name": "Polish",
+      "nativeName": "Polski"
+    },
+    {
+      "code": "pt-BR",
+      "name": "Portuguese (Brazil)",
+      "nativeName": "Português (Brasil)"
+    },
+    {
+      "code": "pt",
+      "name": "Portuguese",
+      "nativeName": "Português"
+    },
+    {
+      "code": "sv",
+      "name": "Swedish",
+      "nativeName": "Svenska"
+    }
+  ],
+  "baseUrl": "https://krakenudo-151.github.io/reminder_app/translations/",
+  "pattern": "{code}.json"
+}

@@ -747,5 +747,20 @@
     "end_date_option": "End date option",
     "select_on_calendar": "Select on calendar",
     "set_by_repetitions": "Set by repetitions"
+  },
+  "language_selection": {
+    "title": "Select your language",
+    "subtitle": "Choose your preferred language",
+    "cancel": "Cancel",
+    "loading": "Loading..."
+  },
+  "language_selector": {
+    "title": "Choose your language",
+    "message": "Select your preferred language",
+    "loading": "Applying language..."
+  },
+  "no_connection": {
+    "retry": "Retry",
+    "message": "Could not connect. Check your internet connection."
   }
 }

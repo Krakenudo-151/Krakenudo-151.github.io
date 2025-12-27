@@ -750,5 +750,20 @@
     "end_date_option": "Opción de fecha de fin",
     "select_on_calendar": "Seleccionar en el calendario",
     "set_by_repetitions": "Establecer por repeticiones"
+  },
+  "language_selection": {
+    "title": "Selecciona tu idioma",
+    "subtitle": "Elige el idioma que prefieres",
+    "cancel": "Cancelar",
+    "loading": "Cargando..."
+  },
+  "language_selector": {
+    "title": "Elige tu idioma",
+    "message": "Selecciona tu idioma preferido",
+    "loading": "Aplicando idioma..."
+  },
+  "no_connection": {
+    "retry": "Reintentar",
+    "message": "No se pudo conectar. Verifica tu conexión a internet."
   }
 }

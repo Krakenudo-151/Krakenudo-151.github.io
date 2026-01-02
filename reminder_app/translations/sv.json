@@ -302,7 +302,9 @@
     "export_csv_description": "Tabellformat, kompatibelt med Excel",
     "export_subject": "Påminnelseloggar - {title}",
     "export_success": "Loggfiler exporterade korrekt",
-    "export_error": "Fel vid export av loggar: {error}"
+    "export_error": "Fel vid export av loggar: {error}",
+    "complete_fab_tooltip": "Slutför påminnelse",
+    "poke_fab_tooltip": "Påminn användare som inte har svarat"
   },
   "profile": {
     "title": "Användarprofil",
@@ -492,7 +494,11 @@
     "updating": "Uppdaterar...",
     "updated_completed": "Uppdaterat svar: klart",
     "updated_rejected": "Uppdaterat svar: avvisat",
-    "error": "Fel: {error}"
+    "error": "Fel: {error}",
+    "delete_response_title": "Ta bort svar",
+    "delete_response_message": "Är du säker på att du vill ta bort detta svar? Denna åtgärd kan inte ångras",
+    "deleting_response": "Tar bort svar...",
+    "deleted_response_success": "Svaret har tagits bort"
   },
   "confirm_edit": {
     "title": "Redigera svar från annan användare",

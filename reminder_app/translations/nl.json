@@ -302,7 +302,9 @@
     "export_csv_description": "Tabelformaat, compatibel met Excel",
     "export_subject": "Herinneringslogboeken - {title}",
     "export_success": "Logs correct geëxporteerd",
-    "export_error": "Fout bij het exporteren van logbestanden: {error}"
+    "export_error": "Fout bij het exporteren van logbestanden: {error}",
+    "complete_fab_tooltip": "Herinnering voltooien",
+    "poke_fab_tooltip": "Gebruikers herinneren die niet hebben gereageerd"
   },
   "profile": {
     "title": "Gebruikersprofiel",
@@ -492,7 +494,11 @@
     "updating": "Bezig met updaten...",
     "updated_completed": "Bijgewerkt antwoord: voltooid",
     "updated_rejected": "Bijgewerkt antwoord: afgewezen",
-    "error": "Fout: {error}"
+    "error": "Fout: {error}",
+    "delete_response_title": "Antwoord verwijderen",
+    "delete_response_message": "Weet u zeker dat u dit antwoord wilt verwijderen? Deze actie kan niet ongedaan worden gemaakt",
+    "deleting_response": "Antwoord verwijderen...",
+    "deleted_response_success": "Antwoord succesvol verwijderd"
   },
   "confirm_edit": {
     "title": "Reactie van een andere gebruiker bewerken",

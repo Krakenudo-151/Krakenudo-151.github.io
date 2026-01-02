@@ -302,7 +302,9 @@
     "export_csv_description": "Tabellenformat, kompatibel mit Excel",
     "export_subject": "Erinnerungsprotokolle - {title}",
     "export_success": "Logs erfolgreich exportiert",
-    "export_error": "Fehler beim Exportieren von Protokollen: {error}"
+    "export_error": "Fehler beim Exportieren von Protokollen: {error}",
+    "complete_fab_tooltip": "Erinnerung abschließen",
+    "poke_fab_tooltip": "Benutzer erinnern, die nicht geantwortet haben"
   },
   "profile": {
     "title": "Benutzerprofil",
@@ -492,7 +494,11 @@
     "updating": "Wird aktualisiert...",
     "updated_completed": "Antwort aktualisiert: Abgeschlossen",
     "updated_rejected": "Antwort aktualisiert: Abgelehnt",
-    "error": "Fehler: {error}"
+    "error": "Fehler: {error}",
+    "delete_response_title": "Antwort löschen",
+    "delete_response_message": "Möchten Sie diese Antwort wirklich löschen? Diese Aktion kann nicht rückgängig gemacht werden",
+    "deleting_response": "Antwort wird gelöscht...",
+    "deleted_response_success": "Antwort erfolgreich gelöscht"
   },
   "confirm_edit": {
     "title": "Antwort eines anderen bearbeiten",

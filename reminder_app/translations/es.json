@@ -154,7 +154,10 @@
     "snooze_2hours": "2 horas",
     "ad_privacy_title": "Gestionar privacidad de anuncios",
     "ad_privacy_subtitle": "Modificar consentimiento de publicidad",
-    "ad_privacy_error": "No se pudo abrir el panel de privacidad: {error}"
+    "ad_privacy_error": "No se pudo abrir el panel de privacidad: {error}",
+    "calendar": "Calendario",
+    "calendar_show_only_mine": "Mostrar solo mis recordatorios",
+    "calendar_show_only_mine_subtitle": "Ocultar recordatorios de otros usuarios en el calendario"
   },
   "gamification": {
     "levels": "Niveles",
@@ -302,7 +305,9 @@
     "export_csv_description": "Formato de tabla, compatible con Excel",
     "export_subject": "Logs de recordatorio - {title}",
     "export_success": "Logs exportados correctamente",
-    "export_error": "Error al exportar logs: {error}"
+    "export_error": "Error al exportar logs: {error}",
+    "complete_fab_tooltip": "Completar recordatorio",
+    "poke_fab_tooltip": "Recordar a usuarios que no han contestado"
   },
   "profile": {
     "title": "Perfil de Usuario",
@@ -492,7 +497,11 @@
     "updating": "Actualizando...",
     "updated_completed": "Respuesta actualizada: completado",
     "updated_rejected": "Respuesta actualizada: rechazado",
-    "error": "Error: {error}"
+    "error": "Error: {error}",
+    "delete_response_title": "Eliminar respuesta",
+    "delete_response_message": "¿Estás seguro de que quieres eliminar esta respuesta? Esta acción no se puede deshacer",
+    "deleting_response": "Eliminando respuesta...",
+    "deleted_response_success": "Respuesta eliminada correctamente"
   },
   "confirm_edit": {
     "title": "Editar respuesta de otro usuario",
@@ -750,20 +759,5 @@
     "end_date_option": "Opción de fecha de fin",
     "select_on_calendar": "Seleccionar en el calendario",
     "set_by_repetitions": "Establecer por repeticiones"
-  },
-  "language_selection": {
-    "title": "Selecciona tu idioma",
-    "subtitle": "Elige el idioma que prefieres",
-    "cancel": "Cancelar",
-    "loading": "Cargando..."
-  },
-  "language_selector": {
-    "title": "Elige tu idioma",
-    "message": "Selecciona tu idioma preferido",
-    "loading": "Aplicando idioma..."
-  },
-  "no_connection": {
-    "retry": "Reintentar",
-    "message": "No se pudo conectar. Verifica tu conexión a internet."
   }
 }

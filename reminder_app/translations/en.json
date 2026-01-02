@@ -154,7 +154,10 @@
     "snooze_2hours": "2 hours",
     "ad_privacy_title": "Manage ad privacy",
     "ad_privacy_subtitle": "Modify advertising consent",
-    "ad_privacy_error": "The privacy panel could not be opened: {error}"
+    "ad_privacy_error": "The privacy panel could not be opened: {error}",
+    "calendar": "Calendar",
+    "calendar_show_only_mine": "Show only my reminders",
+    "calendar_show_only_mine_subtitle": "Hide other users' reminders in the calendar"
   },
   "gamification": {
     "levels": "Levels",
@@ -302,7 +305,9 @@
     "export_csv_description": "Table format, compatible with Excel",
     "export_subject": "Reminder logs - {title}",
     "export_success": "Logs exported successfully",
-    "export_error": "Error exporting logs: {error}"
+    "export_error": "Error exporting logs: {error}",
+    "complete_fab_tooltip": "Complete reminder",
+    "poke_fab_tooltip": "Remind users who haven't responded"
   },
   "profile": {
     "title": "User Profile",
@@ -492,7 +497,11 @@
     "updating": "Updating...",
     "updated_completed": "Response updated: completed",
     "updated_rejected": "Response updated: rejected",
-    "error": "Error: {error}"
+    "error": "Error: {error}",
+    "delete_response_title": "Delete response",
+    "delete_response_message": "Are you sure you want to delete this response? This action cannot be undone",
+    "deleting_response": "Deleting response...",
+    "deleted_response_success": "Response deleted successfully"
   },
   "confirm_edit": {
     "title": "Edit another user's response",
@@ -747,20 +756,5 @@
     "end_date_option": "End date option",
     "select_on_calendar": "Select on calendar",
     "set_by_repetitions": "Set by repetitions"
-  },
-  "language_selection": {
-    "title": "Select your language",
-    "subtitle": "Choose your preferred language",
-    "cancel": "Cancel",
-    "loading": "Loading..."
-  },
-  "language_selector": {
-    "title": "Choose your language",
-    "message": "Select your preferred language",
-    "loading": "Applying language..."
-  },
-  "no_connection": {
-    "retry": "Retry",
-    "message": "Could not connect. Check your internet connection."
   }
 }

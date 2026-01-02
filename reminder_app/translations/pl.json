@@ -302,7 +302,9 @@
     "export_csv_description": "Format tabeli, kompatybilny z programem Excel",
     "export_subject": "Logi przypomnień - {title}",
     "export_success": "Pliki dziennika zostały pomyślnie wyeksportowane.",
-    "export_error": "Błąd podczas eksportowania logów: {error}"
+    "export_error": "Błąd podczas eksportowania logów: {error}",
+    "complete_fab_tooltip": "Ukończ przypomnienie",
+    "poke_fab_tooltip": "Przypomnij użytkownikom, którzy nie odpowiedzieli"
   },
   "profile": {
     "title": "Profil użytkownika",
@@ -492,7 +494,11 @@
     "updating": "Aktualizowanie...",
     "updated_completed": "Aktualna odpowiedź: zakończone",
     "updated_rejected": "Aktualna odpowiedź: odrzucono",
-    "error": "Błąd: {error}"
+    "error": "Błąd: {error}",
+    "delete_response_title": "Usuń odpowiedź",
+    "delete_response_message": "Czy na pewno chcesz usunąć tę odpowiedź? Tej czynności nie można cofnąć",
+    "deleting_response": "Usuwanie odpowiedzi...",
+    "deleted_response_success": "Odpowiedź została pomyślnie usunięta"
   },
   "confirm_edit": {
     "title": "Edytuj odpowiedź innego użytkownika",

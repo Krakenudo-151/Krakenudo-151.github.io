@@ -302,7 +302,9 @@
     "export_csv_description": "Formato de tabela, compatível com Excel",
     "export_subject": "Registros de lembrete - {title}",
     "export_success": "Logs exportados corretamente",
-    "export_error": "Erro ao exportar logs: {error}"
+    "export_error": "Erro ao exportar logs: {error}",
+    "complete_fab_tooltip": "Completar lembrete",
+    "poke_fab_tooltip": "Lembrar usuários que não responderam"
   },
   "profile": {
     "title": "Perfil do usuário",
@@ -492,7 +494,11 @@
     "updating": "Atualizando...",
     "updated_completed": "Resposta atualizada: concluída",
     "updated_rejected": "Resposta atualizada: rejeitado",
-    "error": "Erro: {error}"
+    "error": "Erro: {error}",
+    "delete_response_title": "Excluir resposta",
+    "delete_response_message": "Tem certeza de que deseja excluir esta resposta? Esta ação não pode ser desfeita",
+    "deleting_response": "Excluindo resposta...",
+    "deleted_response_success": "Resposta excluída com sucesso"
   },
   "confirm_edit": {
     "title": "Editar resposta de outro usuário",

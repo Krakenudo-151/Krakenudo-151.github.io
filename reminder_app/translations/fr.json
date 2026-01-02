@@ -302,7 +302,9 @@
     "export_csv_description": "Format Excel",
     "export_subject": "Logs - {title}",
     "export_success": "Exporté",
-    "export_error": "Erreur : {error}"
+    "export_error": "Erreur : {error}",
+    "complete_fab_tooltip": "Compléter",
+    "poke_fab_tooltip": "Relancer"
   },
   "profile": {
     "title": "Profil",
@@ -492,7 +494,11 @@
     "updating": "Mise à jour...",
     "updated_completed": "Fait",
     "updated_rejected": "Refusé",
-    "error": "Erreur : {error}"
+    "error": "Erreur : {error}",
+    "delete_response_title": "Supprimer la réponse",
+    "delete_response_message": "Voulez-vous vraiment supprimer cette réponse ? Cette action ne peut pas être annulée",
+    "deleting_response": "Suppression de la réponse...",
+    "deleted_response_success": "Réponse supprimée avec succès"
   },
   "confirm_edit": {
     "title": "Modifier autrui",

@@ -1,6 +1,21 @@
 {
   "languages": [
     {
+      "code": "bg",
+      "name": "Bulgarian",
+      "nativeName": "Български"
+    },
+    {
+      "code": "cs",
+      "name": "Czech",
+      "nativeName": "Čeština"
+    },
+    {
+      "code": "da",
+      "name": "Danish",
+      "nativeName": "Dansk"
+    },
+    {
       "code": "de",
       "name": "Deutsch",
       "nativeName": "Deutsch"
@@ -21,9 +36,19 @@
       "nativeName": "Español"
     },
     {
+      "code": "fi",
+      "name": "Finnish",
+      "nativeName": "Suomi"
+    },
+    {
       "code": "fr",
       "name": "French",
       "nativeName": "Français"
+    },
+    {
+      "code": "hu",
+      "name": "Hungarian",
+      "nativeName": "Magyar"
     },
     {
       "code": "it",
@@ -34,6 +59,11 @@
       "code": "nl",
       "name": "Dutch",
       "nativeName": "Nederlands"
+    },
+    {
+      "code": "no",
+      "name": "Norwegian",
+      "nativeName": "Norsk"
     },
     {
       "code": "pl",
@@ -51,9 +81,29 @@
       "nativeName": "Português"
     },
     {
+      "code": "ro",
+      "name": "Romanian",
+      "nativeName": "Română"
+    },
+    {
+      "code": "ru",
+      "name": "Russian",
+      "nativeName": "Русский"
+    },
+    {
       "code": "sv",
       "name": "Swedish",
       "nativeName": "Svenska"
+    },
+    {
+      "code": "tr",
+      "name": "Turkish",
+      "nativeName": "Türkçe"
+    },
+    {
+      "code": "uk",
+      "name": "Ukrainian",
+      "nativeName": "Українська"
     }
   ],
   "baseUrl": "https://krakenudo-151.github.io/reminder_app/translations/",

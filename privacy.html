@@ -1,274 +1,64 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Política de Privacidad - ReminderApp</title>
+    <title>Privacy Policy - Política de Privacidad - ReminderApp</title>
     <style>
-        :root {
-            --primary-color: #2c5282;
-            --text-color: #333;
-            --bg-color: #fff;
-            --container-bg: #fff;
-            --shadow-color: rgba(0,0,0,0.1);
-        }
-
-        @media (prefers-color-scheme: dark) {
-            :root {
-                --primary-color: #90cdf4;
-                --text-color: #e2e8f0;
-                --bg-color: #1a202c;
-                --container-bg: #2d3748;
-                --shadow-color: rgba(0,0,0,0.3);
-            }
-        }
-
         body {
             font-family: system-ui, -apple-system, sans-serif;
-            line-height: 1.6;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
             margin: 0;
-            padding: 20px;
-            background-color: var(--bg-color);
-            color: var(--text-color);
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
         }
-
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-            background: var(--container-bg);
-            padding: 2em;
-            border-radius: 8px;
-            box-shadow: 0 2px 4px var(--shadow-color);
-        }
-
-        h1, h2, h3 {
-            color: var(--primary-color);
-        }
-
-        h1 {
+        .loader {
             text-align: center;
-            border-bottom: 2px solid var(--primary-color);
-            padding-bottom: 0.5em;
         }
-
-        h2 {
-            margin-top: 1.5em;
+        .spinner {
+            border: 4px solid rgba(255,255,255,0.3);
+            border-top: 4px solid white;
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 20px;
         }
-
-        section {
-            margin-bottom: 2em;
-        }
-
-        ul {
-            padding-left: 1.5em;
-        }
-
-        .updated {
-            text-align: center;
-            color: #666;
-            font-style: italic;
-            margin-bottom: 2em;
-        }
-
-        @media (max-width: 600px) {
-            body {
-                padding: 10px;
-            }
-            
-            .container {
-                padding: 1em;
-            }
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
         }
     </style>
+    <script>
+        // Language detection and redirect
+        (function() {
+            // Get browser language
+            const userLang = (navigator.language || navigator.userLanguage || 'en').toLowerCase();
+            const langCode = userLang.split('-')[0]; // 'es-MX' → 'es'
+
+            // Available languages (only ES and EN for now)
+            const available = ['es', 'en'];
+            const fallback = 'en';
+
+            // Find best match
+            const targetLang = available.includes(langCode) ? langCode : fallback;
+
+            // Redirect
+            window.location.href = `/privacy/${targetLang}.html`;
+        })();
+    </script>
+    <noscript>
+        <!-- Fallback for users without JavaScript -->
+        <meta http-equiv="refresh" content="0; url=/privacy/en.html">
+    </noscript>
 </head>
 <body>
-    <div class="container">
-        <header>
-            <h1>Política de Privacidad</h1>
-            <p class="updated">Última actualización: 15 de noviembre de 2025</p>
-        </header>
-
-        <main>
-            <section>
-                <h2>1. Introducción</h2>
-                <p>Bienvenido a ReminderApp. Esta Política de Privacidad explica cómo recopilamos, utilizamos, divulgamos y protegemos su información cuando utiliza nuestra aplicación móvil.</p>
-
-                <h3>1.1 Responsable de Datos</h3>
-                <p>De acuerdo con el Reglamento General de Protección de Datos (RGPD):</p>
-                <ul>
-                    <li><strong>Responsable:</strong> Juan Manuel Gómez de Parada López</li>
-                    <li><strong>Condición:</strong> Desarrollador individual</li>
-                    <li><strong>Email de contacto:</strong> group.reminder.app@gmail.com</li>
-                    <li><strong>Jurisdicción:</strong> España</li>
-                    <li><strong>Autoridad de Supervisión:</strong> Agencia Española de Protección de Datos (AEPD) - <a href="https://www.aepd.es" target="_blank">www.aepd.es</a></li>
-                </ul>
-            </section>
-
-            <section>
-                <h2>2. Información que Recopilamos</h2>
-                
-                <h3>2.1 Información proporcionada directamente:</h3>
-                <ul>
-                    <li>Correo electrónico</li>
-                    <li>Nombre de perfil</li>
-                    <li>Foto de perfil (opcional)</li>
-                    <li>Alias de usuario</li>
-                </ul>
-
-                <h3>2.2 Información recopilada automáticamente:</h3>
-                <ul>
-                    <li>Datos de uso de la aplicación</li>
-                    <li>Identificadores de dispositivo</li>
-                    <li>Datos de registro (logs)</li>
-                    <li>Información sobre la sesión</li>
-                    <li>Datos de rendimiento de la aplicación</li>
-                </ul>
-
-                <h3>2.3 Información para publicidad:</h3>
-                <p>La aplicación NO muestra publicidad automática. Los anuncios son completamente opcionales:</p>
-                <ul>
-                    <li>Solo se muestran si el usuario decide voluntariamente ver un anuncio con recompensa (puntos de gamificación)</li>
-                    <li>No se recopilan identificadores publicitarios sin consentimiento explícito</li>
-                    <li>Cuando el usuario elige ver un anuncio, se utiliza el idioma del dispositivo para mostrarlo</li>
-                </ul>
-                <p>Puede usar la aplicación completamente sin ver publicidad nunca.</p>
-            </section>
-
-            <section>
-                <h2>3. Uso de la Información y Base Legal (RGPD Art. 6)</h2>
-                <p>Utilizamos la información recopilada con las siguientes bases legales:</p>
-
-                <h3>3.1 Ejecución de Contrato:</h3>
-                <ul>
-                    <li>Proporcionar y mantener nuestro servicio</li>
-                    <li>Permitir la creación y gestión de recordatorios</li>
-                    <li>Facilitar la colaboración entre usuarios</li>
-                </ul>
-
-                <h3>3.2 Consentimiento:</h3>
-                <ul>
-                    <li>Enviar notificaciones relacionadas con recordatorios (permiso FCM solicitado al usuario)</li>
-                    <li>Mostrar anuncios con recompensa (solo si el usuario elige verlos voluntariamente)</li>
-                </ul>
-
-                <h3>3.3 Interés Legítimo:</h3>
-                <ul>
-                    <li>Mejorar y optimizar nuestra aplicación mediante análisis de uso</li>
-                    <li>Prevenir actividades fraudulentas</li>
-                </ul>
-
-                <h3>3.4 Obligación Legal:</h3>
-                <ul>
-                    <li>Cumplir con obligaciones legales y responder a solicitudes de autoridades competentes</li>
-                </ul>
-            </section>
-
-            <section>
-                <h2>4. Compartición de Datos</h2>
-                
-                <h3>4.1 Proveedores de servicios (Procesadores de Datos RGPD Art. 28):</h3>
-                <ul>
-                    <li><strong>Google Firebase</strong> (USA): Almacenamiento, autenticación y base de datos. Transferencias internacionales protegidas mediante Cláusulas Contractuales Estándar UE-USA.</li>
-                    <li><strong>Google Analytics</strong> (USA): Análisis de uso de la aplicación.</li>
-                    <li><strong>Google AdMob</strong> (USA): Anuncios con recompensa (solo si el usuario los solicita voluntariamente).</li>
-                </ul>
-                <p>Todos los procesadores cumplen con estándares de seguridad y privacidad compatibles con RGPD.</p>
-
-                <h3>4.2 Circunstancias especiales:</h3>
-                <ul>
-                    <li>Cuando sea requerido por ley</li>
-                    <li>Para proteger nuestros derechos</li>
-                    <li>En caso de reorganización empresarial</li>
-                </ul>
-            </section>
-
-            <section>
-                <h2>5. Sus Derechos RGPD</h2>
-                <p>Como usuario, tiene los siguientes derechos según el Reglamento General de Protección de Datos:</p>
-
-                <h3>5.1 Derechos fundamentales:</h3>
-                <ul>
-                    <li><strong>Acceso (Art. 15):</strong> Consultar qué datos personales almacenamos sobre usted</li>
-                    <li><strong>Rectificación (Art. 16):</strong> Corregir datos inexactos o incompletos</li>
-                    <li><strong>Supresión (Art. 17):</strong> Solicitar la eliminación de sus datos (con período de gracia de 30 días)</li>
-                    <li><strong>Portabilidad (Art. 20):</strong> Exportar sus datos en formato JSON desde la app (Ajustes → Privacidad → Descargar mis datos)</li>
-                    <li><strong>Oposición (Art. 21):</strong> Oponerse al procesamiento basado en interés legítimo</li>
-                    <li><strong>Retirar consentimiento (Art. 7.3):</strong> Revocar permisos otorgados previamente</li>
-                    <li><strong>No estar sujeto a decisiones automatizadas (Art. 22):</strong> El sistema de gamificación asigna puntos automáticamente, pero no afecta derechos esenciales ni tiene consecuencias legales</li>
-                </ul>
-
-                <h3>5.2 Plazo de respuesta:</h3>
-                <p>Responderemos a sus solicitudes en un plazo máximo de <strong>30 días naturales</strong> desde la recepción.</p>
-
-                <h3>5.3 Eliminación de cuenta:</h3>
-                <p>Cuando solicite eliminar su cuenta, se iniciará un período de gracia de 30 días durante el cual podrá cancelar la eliminación. Después de este período, todos sus datos personales serán eliminados permanentemente de nuestros sistemas.</p>
-
-                <h3>5.4 Reclamación ante autoridad:</h3>
-                <p>Tiene derecho a presentar una reclamación ante la <strong>Agencia Española de Protección de Datos (AEPD)</strong> si considera que el tratamiento de sus datos vulnera el RGPD: <a href="https://www.aepd.es" target="_blank">www.aepd.es</a></p>
-            </section>
-
-            <section>
-                <h2>6. Seguridad de Datos</h2>
-                <p>Implementamos medidas de seguridad incluyendo:</p>
-                <ul>
-                    <li>Cifrado de datos</li>
-                    <li>Firebase App Check</li>
-                    <li>Autenticación segura</li>
-                    <li>Monitoreo regular</li>
-                    <li>Actualizaciones de seguridad</li>
-                </ul>
-            </section>
-
-            <section>
-                <h2>7. Menores de Edad</h2>
-                <p>La aplicación está diseñada para usuarios mayores de 13 años:</p>
-                <ul>
-                    <li><strong>Menores de 13 años:</strong> No permitimos el uso de la aplicación. Si descubrimos que hemos recopilado datos de un menor de 13 años, los eliminaremos inmediatamente.</li>
-                    <li><strong>Menores entre 13 y 16 años:</strong> Pueden usar la aplicación bajo supervisión y consentimiento de padres o tutores legales. La responsabilidad del uso adecuado recae en los tutores.</li>
-                    <li><strong>Mayores de 16 años:</strong> Pueden usar la aplicación sin restricciones adicionales.</li>
-                </ul>
-                <p>El desarrollador no verifica activamente la edad de los usuarios. Es responsabilidad de padres y tutores supervisar el uso de menores.</p>
-            </section>
-
-            <section>
-                <h2>8. Cambios en esta Política</h2>
-                <p>Podemos actualizar esta política ocasionalmente. Las modificaciones entrarán en vigor cuando se publiquen en la aplicación.</p>
-            </section>
-
-            <section>
-                <h2>9. Publicidad Opcional con Recompensa</h2>
-
-                <h3>9.1 Modelo publicitario no intrusivo:</h3>
-                <ul>
-                    <li><strong>100% opcional:</strong> La aplicación NO muestra anuncios automáticos ni obligatorios</li>
-                    <li><strong>Anuncios con recompensa:</strong> El usuario puede elegir voluntariamente ver un anuncio para obtener puntos de gamificación</li>
-                    <li><strong>Sin interrupción:</strong> Los anuncios nunca saltan automáticamente durante el uso de la aplicación</li>
-                    <li><strong>Proveedor:</strong> Google AdMob</li>
-                </ul>
-
-                <h3>9.2 Privacidad publicitaria:</h3>
-                <p>Nuestra política de publicidad es respetuosa con la privacidad:</p>
-                <ul>
-                    <li>Solo se procesan datos publicitarios cuando el usuario elige ver un anuncio</li>
-                    <li>Utilizamos únicamente el idioma del dispositivo para mostrar anuncios relevantes</li>
-                    <li>No compartimos datos personales del usuario con fines publicitarios</li>
-                    <li>El usuario tiene control total: puede usar la aplicación sin ver nunca un anuncio</li>
-                </ul>
-            </section>
-            
-            <section>
-                <h2>10. Contacto</h2>
-                <p>Para cualquier consulta sobre esta política o sus datos personales:</p>
-                <ul>
-                    <li>Email: group.reminder.app@gmail.com</li>
-                </ul>
-            </section>
-
-            <section>
-                <h2>11. Consentimiento</h2>
-                <p>Al utilizar nuestra aplicación, usted acepta la recopilación y uso de información de acuerdo con esta política. El consentimiento para el procesamiento de datos personales puede ser retirado en cualquier momento.</p>
-            </section>
-        </main>
+    <div class="loader">
+        <div class="spinner"></div>
+        <p>Redirecting... / Redirigiendo...</p>
     </div>
 </body>
 </html>

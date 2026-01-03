@@ -590,6 +590,8 @@
     "view_members": "Виж членове",
     "add_member": "Добави член",
     "delete_group": "Изтрий групата",
+    "leave_group": "Напусни групата",
+    "leave": "Напусни",
     "active": "{count} чакащи",
     "active_short": "{count} акт",
     "expired": "{count} изтекли",

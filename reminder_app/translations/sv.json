@@ -587,6 +587,8 @@
     "view_members": "Visa medlemmar",
     "add_member": "Lägg till medlem",
     "delete_group": "Ta bort grupp",
+    "leave_group": "Lämna gruppen",
+    "leave": "Gå ut",
     "active": "{count} väntande",
     "active_short": "{count} akt",
     "expired": "{count} utgångna",

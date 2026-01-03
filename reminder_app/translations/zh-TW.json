@@ -590,6 +590,8 @@
     "view_members": "查看成員",
     "add_member": "新增成員",
     "delete_group": "刪除群組",
+    "leave_group": "離開群組",
+    "leave": "離開",
     "active": "{count} 個待處理",
     "active_short": "{count} 待",
     "expired": "{count} 個已過期",

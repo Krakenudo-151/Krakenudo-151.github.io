@@ -587,6 +587,8 @@
     "view_members": "Δείτε τα μέλη",
     "add_member": "Προσθήκη μέλους",
     "delete_group": "Διαγραφή ομάδας",
+    "leave_group": "Έξοδος από την ομάδα",
+    "leave": "Έξοδος",
     "active": "{count} Εκκρεμή",
     "active_short": "{count} πράξη",
     "expired": "{count} λήξαντες",

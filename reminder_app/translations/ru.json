@@ -590,6 +590,8 @@
     "view_members": "Участники",
     "add_member": "Добавить",
     "delete_group": "Удалить",
+    "leave_group": "Покинуть",
+    "leave": "Покинуть",
     "active": "{count} активных",
     "active_short": "{count} акт",
     "expired": "{count} истекло",

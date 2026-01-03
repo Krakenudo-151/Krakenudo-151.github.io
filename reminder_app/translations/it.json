@@ -587,6 +587,8 @@
     "view_members": "Membri",
     "add_member": "Più",
     "delete_group": "Meno",
+    "leave_group": "Lascia",
+    "leave": "Esci",
     "active": "{count} In sospeso",
     "active_short": "{count} att",
     "expired": "{count} scad",

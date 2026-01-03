@@ -587,6 +587,8 @@
     "view_members": "查看成员",
     "add_member": "添加成员",
     "delete_group": "删除群组",
+    "leave_group": "离开群组",
+    "leave": "离开",
     "active": "{count} 个待处理",
     "active_short": "{count} 待",
     "expired": "{count} 个已过期",

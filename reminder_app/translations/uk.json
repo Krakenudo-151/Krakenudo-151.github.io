@@ -590,6 +590,8 @@
     "view_members": "Переглянути учасників",
     "add_member": "Додати учасника",
     "delete_group": "Видалити групу",
+    "leave_group": "Вийти з групи",
+    "leave": "Вийти",
     "active": "{count} очікується",
     "active_short": "{count} акт",
     "expired": "{count} прострочено",

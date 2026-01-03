@@ -590,6 +590,8 @@
     "view_members": "Se medlemmer",
     "add_member": "Tilføj medlem",
     "delete_group": "Slet gruppe",
+    "leave_group": "Forlad gruppe",
+    "leave": "Forlad",
     "active": "{count} afventer",
     "active_short": "{count} akt",
     "expired": "{count} udløbet",

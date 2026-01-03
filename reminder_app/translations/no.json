@@ -587,6 +587,8 @@
     "view_members": "Se medlemmer",
     "add_member": "Legg til medlem",
     "delete_group": "Slett gruppe",
+    "leave_group": "Forlat gruppe",
+    "leave": "Forlat",
     "active": "{count} venter",
     "active_short": "{count} akt",
     "expired": "{count} utgått",

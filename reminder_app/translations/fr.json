@@ -587,6 +587,8 @@
     "view_members": "Membres",
     "add_member": "Plus",
     "delete_group": "Moins",
+    "leave_group": "Quitter",
+    "leave": "Quitter",
     "active": "{count} En attente",
     "active_short": "{count} act",
     "expired": "{count} exp",

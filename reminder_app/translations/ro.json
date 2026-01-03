@@ -590,6 +590,8 @@
     "view_members": "Vezi membrii",
     "add_member": "Adaugă membru",
     "delete_group": "Șterge grupul",
+    "leave_group": "Părăsește grupul",
+    "leave": "Părăsește",
     "active": "{count} în așteptare",
     "active_short": "{count} act",
     "expired": "{count} expirate",

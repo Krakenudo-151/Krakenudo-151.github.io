@@ -590,6 +590,8 @@
     "view_members": "Tagok megtekintése",
     "add_member": "Tag hozzáadása",
     "delete_group": "Csoport törlése",
+    "leave_group": "Csoport elhagyása",
+    "leave": "Elhagyás",
     "active": "{count} függőben",
     "active_short": "{count} akt",
     "expired": "{count} lejárt",

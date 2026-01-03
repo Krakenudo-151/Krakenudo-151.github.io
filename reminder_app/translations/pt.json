@@ -587,6 +587,8 @@
     "view_members": "Ver membros",
     "add_member": "Adicionar membro",
     "delete_group": "Eliminar grupo",
+    "leave_group": "Sair",
+    "leave": "Sair",
     "active": "{count} pendentes",
     "active_short": "{count} ato",
     "expired": "{count} expirados",

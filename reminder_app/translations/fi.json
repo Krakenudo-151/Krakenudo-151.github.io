@@ -590,6 +590,8 @@
     "view_members": "Näytä jäsenet",
     "add_member": "Lisää jäsen",
     "delete_group": "Poista ryhmä",
+    "leave_group": "Poistu ryhmästä",
+    "leave": "Poistu",
     "active": "{count} odottaa",
     "active_short": "{count} akt",
     "expired": "{count} vanhentunutta",

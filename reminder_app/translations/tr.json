@@ -590,6 +590,8 @@
     "view_members": "Üyeler",
     "add_member": "Ekle",
     "delete_group": "Sil",
+    "leave_group": "Ayrıl",
+    "leave": "Ayrıl",
     "active": "{count} aktif",
     "active_short": "{count} akt",
     "expired": "{count} doldu",

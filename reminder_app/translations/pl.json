@@ -587,6 +587,8 @@
     "view_members": "Zobacz członków",
     "add_member": "Dodaj członka",
     "delete_group": "Usuń grupę",
+    "leave_group": "Opuść grupę",
+    "leave": "Wyjść",
     "active": "{count} oczekujące",
     "active_short": "{count} akt",
     "expired": "{count} przeterminowane",

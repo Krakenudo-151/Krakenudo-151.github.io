@@ -587,6 +587,8 @@
     "view_members": "Mitglieder",
     "add_member": "Hinzufügen",
     "delete_group": "Löschen",
+    "leave_group": "Gruppe verlassen",
+    "leave": "Verlassen",
     "active": "{count} Ausstehend",
     "active_short": "{count} akt",
     "expired": "{count} abgelaufen",

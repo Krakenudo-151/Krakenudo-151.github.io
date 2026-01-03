@@ -590,6 +590,8 @@
     "view_members": "Ver miembros",
     "add_member": "Añadir miembro",
     "delete_group": "Eliminar grupo",
+    "leave_group": "Salir del grupo",
+    "leave": "Salir",
     "active": "{count} pendientes",
     "active_short": "{count} act",
     "expired": "{count} expirados",

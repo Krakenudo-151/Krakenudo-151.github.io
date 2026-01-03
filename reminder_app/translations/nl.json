@@ -587,6 +587,8 @@
     "view_members": "Leden bekijken",
     "add_member": "Lid toevoegen",
     "delete_group": "Groep verwijderen",
+    "leave_group": "De groep verlaten",
+    "leave": "Uitgaan",
     "active": "{count} in afwachting",
     "active_short": "{count} act",
     "expired": "{count} verlopen",

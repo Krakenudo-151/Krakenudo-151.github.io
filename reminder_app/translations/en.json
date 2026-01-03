@@ -590,6 +590,8 @@
     "view_members": "View members",
     "add_member": "Add member",
     "delete_group": "Delete group",
+    "leave_group": "Leave group",
+    "leave": "Leave",
     "active": "{count} pending",
     "active_short": "{count} act",
     "expired": "{count} expired",

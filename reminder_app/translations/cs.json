@@ -590,6 +590,8 @@
     "view_members": "Zobrazit členy",
     "add_member": "Přidat člena",
     "delete_group": "Smazat skupinu",
+    "leave_group": "Opustit skupinu",
+    "leave": "Opustit",
     "active": "{count} čeká",
     "active_short": "{count} akt",
     "expired": "{count} vypršelo",

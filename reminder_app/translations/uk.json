@@ -73,7 +73,8 @@
     "group_name": "Назва групи",
     "group_color": "Колір групи",
     "enter_group_name": "Введіть назву групи",
-    "no_group": "Без групи"
+    "no_group": "Без групи",
+    "all_groups": "Всі"
   },
   "group_screen": {
     "must_accept_terms": "Ви повинні прийняти умови для використання додатка",

@@ -73,7 +73,8 @@
     "group_name": "Nombre del grupo",
     "group_color": "Color del grupo",
     "enter_group_name": "Ingresa el nombre del grupo",
-    "no_group": "Sin grupo"
+    "no_group": "Sin grupo",
+    "all_groups": "Todos"
   },
   "group_screen": {
     "must_accept_terms": "Debes aceptar los términos para usar la aplicación",
@@ -671,38 +672,35 @@
     "reject_note": "Rechazar con motivo"
   },
   "subtasks": {
-      "title": "Subtareas",
-      "add": "Añadir subtarea",
-      "complete_all_first": "Complete las subtareas pendientes",
-      "toggle_enable": "Usar como lista de tareas",
-      "progress": "{completed} de {total} completadas",
-      "progress_short": "{completed}/{total}",
-      "delete_confirm": "¿Eliminar esta subtarea?",
-      "drag_hint": "Mantén presionado para reordenar",
-      "all_completed": "¡Todas las subtareas completadas!",
-      "all_completed_short": "¡Listo!",
-      "none_completed": "Ninguna subtarea completada aún"
-    },
-  
-    "date": {
-      "today": "Hoy",
-      "tomorrow": "Mañana",
-      "yesterday": "Ayer",
-      "in_x_days": "+{count}d",
-      "x_days_ago": "-{count}d",
-      "in_x_months": "+{count}m",
-      "x_months_ago": "-{count}m"
-    },
-
-    "reminder_card": {
-      "level0_no_notifications": "Sin notificaciones (nivel 0)"
-    },
-
-    "reminder_form": {
-      "new_reminder": "Nuevo Recordatorio",
-      "edit_reminder": "Editar Recordatorio",
-      "add": "Añadir",
-      "create_reminder": "Crear Recordatorio",
+    "title": "Subtareas",
+    "add": "Añadir subtarea",
+    "complete_all_first": "Complete las subtareas pendientes",
+    "toggle_enable": "Usar como lista de tareas",
+    "progress": "{completed} de {total} completadas",
+    "progress_short": "{completed}/{total}",
+    "delete_confirm": "¿Eliminar esta subtarea?",
+    "drag_hint": "Mantén presionado para reordenar",
+    "all_completed": "¡Todas las subtareas completadas!",
+    "all_completed_short": "¡Listo!",
+    "none_completed": "Ninguna subtarea completada aún"
+  },
+  "date": {
+    "today": "Hoy",
+    "tomorrow": "Mañana",
+    "yesterday": "Ayer",
+    "in_x_days": "+{count}d",
+    "x_days_ago": "-{count}d",
+    "in_x_months": "+{count}m",
+    "x_months_ago": "-{count}m"
+  },
+  "reminder_card": {
+    "level0_no_notifications": "Sin notificaciones (nivel 0)"
+  },
+  "reminder_form": {
+    "new_reminder": "Nuevo Recordatorio",
+    "edit_reminder": "Editar Recordatorio",
+    "add": "Añadir",
+    "create_reminder": "Crear Recordatorio",
     "save_changes": "Guardar Cambios",
     "reminder_created": "Recordatorio creado correctamente",
     "reminder_updated": "Recordatorio actualizado correctamente",

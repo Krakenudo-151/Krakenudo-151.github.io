@@ -73,7 +73,8 @@
     "group_name": "Group name",
     "group_color": "Group color",
     "enter_group_name": "Enter group name",
-    "no_group": "No group"
+    "no_group": "No group",
+    "all_groups": "All"
   },
   "group_screen": {
     "must_accept_terms": "You must accept the terms to use the application",

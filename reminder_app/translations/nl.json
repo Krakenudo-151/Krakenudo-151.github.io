@@ -73,7 +73,8 @@
     "group_name": "Naam van de groep",
     "group_color": "Kleur van de groep",
     "enter_group_name": "Voer de naam van de groep in",
-    "no_group": "Geen groep"
+    "no_group": "Geen groep",
+    "all_groups": "Alle"
   },
   "group_screen": {
     "must_accept_terms": "Je moet akkoord gaan met de voorwaarden om de app te kunnen gebruiken.",

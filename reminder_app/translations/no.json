@@ -73,7 +73,8 @@
     "group_name": "Gruppenavn",
     "group_color": "Gruppefarge",
     "enter_group_name": "Skriv inn gruppenavn",
-    "no_group": "Ingen gruppe"
+    "no_group": "Ingen gruppe",
+    "all_groups": "Alle"
   },
   "group_screen": {
     "must_accept_terms": "Du må godta vilkårene for å bruke applikasjonen",

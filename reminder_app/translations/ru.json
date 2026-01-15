@@ -73,7 +73,8 @@
     "group_name": "Название группы",
     "group_color": "Цвет группы",
     "enter_group_name": "Введите название",
-    "no_group": "Без группы"
+    "no_group": "Без группы",
+    "all_groups": "Все"
   },
   "group_screen": {
     "must_accept_terms": "Примите условия использования",

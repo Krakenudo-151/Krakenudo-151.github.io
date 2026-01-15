@@ -73,7 +73,8 @@
     "group_name": "Nome gruppo",
     "group_color": "Colore",
     "enter_group_name": "Inserisci nome",
-    "no_group": "Nessuno"
+    "no_group": "Nessuno",
+    "all_groups": "Tutti"
   },
   "group_screen": {
     "must_accept_terms": "Devi accettare i termini",

@@ -73,7 +73,8 @@
     "group_name": "Ryhmän nimi",
     "group_color": "Ryhmän väri",
     "enter_group_name": "Anna ryhmän nimi",
-    "no_group": "Ei ryhmää"
+    "no_group": "Ei ryhmää",
+    "all_groups": "Kaikki"
   },
   "group_screen": {
     "must_accept_terms": "Sinun on hyväksyttävä ehdot sovelluksen käyttämiseksi",

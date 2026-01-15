@@ -73,7 +73,8 @@
     "group_name": "Gruppenavn",
     "group_color": "Gruppefarve",
     "enter_group_name": "Indtast gruppenavn",
-    "no_group": "Ingen gruppe"
+    "no_group": "Ingen gruppe",
+    "all_groups": "Alle"
   },
   "group_screen": {
     "must_accept_terms": "Du skal acceptere betingelserne for at bruge applikationen",

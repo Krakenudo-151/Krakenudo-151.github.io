@@ -73,7 +73,8 @@
     "group_name": "Gruppens namn",
     "group_color": "Gruppens färg",
     "enter_group_name": "Ange gruppens namn",
-    "no_group": "Ingen grupp"
+    "no_group": "Ingen grupp",
+    "all_groups": "Alla"
   },
   "group_screen": {
     "must_accept_terms": "Du måste acceptera villkoren för att kunna använda appen.",

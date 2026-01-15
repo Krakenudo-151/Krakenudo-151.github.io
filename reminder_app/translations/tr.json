@@ -73,7 +73,8 @@
     "group_name": "Grup adı",
     "group_color": "Grup rengi",
     "enter_group_name": "Grup adını girin",
-    "no_group": "Grup yok"
+    "no_group": "Grup yok",
+    "all_groups": "Tümü"
   },
   "group_screen": {
     "must_accept_terms": "Koşulları kabul etmelisiniz",

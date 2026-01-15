@@ -73,7 +73,8 @@
     "group_name": "群组名称",
     "group_color": "群组颜色",
     "enter_group_name": "输入群组名称",
-    "no_group": "无群组"
+    "no_group": "无群组",
+    "all_groups": "全部"
   },
   "group_screen": {
     "must_accept_terms": "您必须接受条款才能使用该应用",

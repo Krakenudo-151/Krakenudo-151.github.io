@@ -73,7 +73,8 @@
     "group_name": "Nume grup",
     "group_color": "Culoare grup",
     "enter_group_name": "Introduceți numele grupului",
-    "no_group": "Fără grup"
+    "no_group": "Fără grup",
+    "all_groups": "Toate"
   },
   "group_screen": {
     "must_accept_terms": "Trebuie să acceptați termenii pentru a folosi aplicația",

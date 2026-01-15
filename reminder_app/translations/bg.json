@@ -73,7 +73,8 @@
     "group_name": "Име на група",
     "group_color": "Цвят на група",
     "enter_group_name": "Въведете име на група",
-    "no_group": "Без група"
+    "no_group": "Без група",
+    "all_groups": "Всички"
   },
   "group_screen": {
     "must_accept_terms": "Трябва да приемете условията за използване на приложението",

@@ -73,7 +73,8 @@
     "group_name": "Name der Gruppe",
     "group_color": "Farbe der Gruppe",
     "enter_group_name": "Geben Sie den Namen der Gruppe ein",
-    "no_group": "Keine Gruppe"
+    "no_group": "Keine Gruppe",
+    "all_groups": "Alle"
   },
   "group_screen": {
     "must_accept_terms": "Sie müssen die Nutzungsbedingungen akzeptieren, um die Anwendung nutzen zu können",

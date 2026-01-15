@@ -73,7 +73,8 @@
     "group_name": "Název skupiny",
     "group_color": "Barva skupiny",
     "enter_group_name": "Zadejte název skupiny",
-    "no_group": "Bez skupiny"
+    "no_group": "Bez skupiny",
+    "all_groups": "Všechny"
   },
   "group_screen": {
     "must_accept_terms": "Musíte přijmout podmínky pro použití aplikace",

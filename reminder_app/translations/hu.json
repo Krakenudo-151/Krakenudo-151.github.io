@@ -73,7 +73,8 @@
     "group_name": "Csoport neve",
     "group_color": "Csoport színe",
     "enter_group_name": "Adja meg a csoport nevét",
-    "no_group": "Nincs csoport"
+    "no_group": "Nincs csoport",
+    "all_groups": "Mind"
   },
   "group_screen": {
     "must_accept_terms": "El kell fogadnia a feltételeket az alkalmazás használatához",

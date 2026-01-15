@@ -73,7 +73,8 @@
     "group_name": "群組名稱",
     "group_color": "群組顏色",
     "enter_group_name": "輸入群組名稱",
-    "no_group": "無群組"
+    "no_group": "無群組",
+    "all_groups": "全部"
   },
   "group_screen": {
     "must_accept_terms": "您必須接受條款才能使用該應用程式",

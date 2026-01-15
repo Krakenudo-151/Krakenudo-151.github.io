@@ -73,7 +73,8 @@
     "group_name": "Nom du groupe",
     "group_color": "Couleur",
     "enter_group_name": "Saisir le nom",
-    "no_group": "Aucun"
+    "no_group": "Aucun",
+    "all_groups": "Tous"
   },
   "group_screen": {
     "must_accept_terms": "Vous devez accepter les conditions",
@@ -104,7 +105,7 @@
     "member_removed": "Membre retiré",
     "error_removing_member": "Erreur : {error}",
     "add_member_by_email": "Ajouter par email",
-    "enter_email": "Saisir l\'email",
+    "enter_email": "Saisir l'email",
     "user_not_found": "Introuvable",
     "user_added": "Ajouté avec succès",
     "invitation_shared": "Lien partagé",

@@ -59,7 +59,11 @@
     "active": "Активні",
     "expired": "Прострочені",
     "no_date": "Без дати",
-    "reminder_completed": "Нагадування виконано"
+    "reminder_completed": "Нагадування виконано",
+    "future": "Future",
+    "all": "All",
+    "others": "Others",
+    "log": "Log"
   },
   "groups": {
     "title": "Групи",

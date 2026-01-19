@@ -59,7 +59,11 @@
     "active": "Aktiivinen",
     "expired": "Vanhentunut",
     "no_date": "Ei päivämäärää",
-    "reminder_completed": "Muistutus valmis"
+    "reminder_completed": "Muistutus valmis",
+    "future": "Future",
+    "all": "All",
+    "others": "Others",
+    "log": "Log"
   },
   "groups": {
     "title": "Ryhmät",

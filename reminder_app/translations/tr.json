@@ -59,7 +59,11 @@
     "active": "Aktif",
     "expired": "Süresi doldu",
     "no_date": "Tarih yok",
-    "reminder_completed": "Tamamlandı"
+    "reminder_completed": "Tamamlandı",
+    "future": "Future",
+    "all": "All",
+    "others": "Others",
+    "log": "Log"
   },
   "groups": {
     "title": "Gruplar",

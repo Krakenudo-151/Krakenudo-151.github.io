@@ -59,7 +59,11 @@
     "active": "Ενεργητικό",
     "expired": "Λήξαν",
     "no_date": "Χωρίς ημερομηνία",
-    "reminder_completed": "Υπενθύμιση ολοκληρώθηκε"
+    "reminder_completed": "Υπενθύμιση ολοκληρώθηκε",
+    "future": "Future",
+    "all": "All",
+    "others": "Others",
+    "log": "Log"
   },
   "groups": {
     "title": "Ομάδες",

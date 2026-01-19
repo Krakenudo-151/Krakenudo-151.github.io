@@ -59,7 +59,11 @@
     "active": "Activ",
     "expired": "Expirat",
     "no_date": "Fără dată",
-    "reminder_completed": "Memento completat"
+    "reminder_completed": "Memento completat",
+    "future": "Future",
+    "all": "All",
+    "others": "Others",
+    "log": "Log"
   },
   "groups": {
     "title": "Grupuri",

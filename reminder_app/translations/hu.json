@@ -59,7 +59,11 @@
     "active": "Aktív",
     "expired": "Lejárt",
     "no_date": "Dátum nélkül",
-    "reminder_completed": "Emlékeztető befejezve"
+    "reminder_completed": "Emlékeztető befejezve",
+    "future": "Future",
+    "all": "All",
+    "others": "Others",
+    "log": "Log"
   },
   "groups": {
     "title": "Csoportok",

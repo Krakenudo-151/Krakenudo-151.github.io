@@ -59,7 +59,11 @@
     "active": "Aktiv",
     "expired": "Utgått",
     "no_date": "Ingen dato",
-    "reminder_completed": "Påminnelse fullført"
+    "reminder_completed": "Påminnelse fullført",
+    "future": "Future",
+    "all": "All",
+    "others": "Others",
+    "log": "Log"
   },
   "groups": {
     "title": "Grupper",

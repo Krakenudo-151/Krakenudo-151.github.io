@@ -59,7 +59,11 @@
     "active": "Активно",
     "expired": "Изтекло",
     "no_date": "Без дата",
-    "reminder_completed": "Напомнянето е завършено"
+    "reminder_completed": "Напомнянето е завършено",
+    "future": "Future",
+    "all": "All",
+    "others": "Others",
+    "log": "Log"
   },
   "groups": {
     "title": "Групи",

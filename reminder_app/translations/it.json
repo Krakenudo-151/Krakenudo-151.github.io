@@ -59,7 +59,11 @@
     "active": "Attivi",
     "expired": "Scaduti",
     "no_date": "Senza data",
-    "reminder_completed": "Promemoria completato"
+    "reminder_completed": "Promemoria completato",
+    "future": "Future",
+    "all": "All",
+    "others": "Others",
+    "log": "Log"
   },
   "groups": {
     "title": "Gruppi",

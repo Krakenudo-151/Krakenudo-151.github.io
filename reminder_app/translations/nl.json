@@ -59,7 +59,11 @@
     "active": "Activa",
     "expired": "Verlopen",
     "no_date": "Zonder datum",
-    "reminder_completed": "Herinnering voltooid"
+    "reminder_completed": "Herinnering voltooid",
+    "future": "Future",
+    "all": "All",
+    "others": "Others",
+    "log": "Log"
   },
   "groups": {
     "title": "Groepen",

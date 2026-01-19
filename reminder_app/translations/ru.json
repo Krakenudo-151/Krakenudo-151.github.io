@@ -59,7 +59,11 @@
     "active": "Активные",
     "expired": "Просрочено",
     "no_date": "Без даты",
-    "reminder_completed": "Выполнено"
+    "reminder_completed": "Выполнено",
+    "future": "Future",
+    "all": "All",
+    "others": "Others",
+    "log": "Log"
   },
   "groups": {
     "title": "Группы",

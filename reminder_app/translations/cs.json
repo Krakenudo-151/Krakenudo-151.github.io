@@ -59,7 +59,11 @@
     "active": "Aktivní",
     "expired": "Vypršelo",
     "no_date": "Bez data",
-    "reminder_completed": "Připomenutí dokončeno"
+    "reminder_completed": "Připomenutí dokončeno",
+    "future": "Future",
+    "all": "All",
+    "others": "Others",
+    "log": "Log"
   },
   "groups": {
     "title": "Skupiny",

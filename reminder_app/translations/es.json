@@ -59,7 +59,11 @@
     "active": "Activos",
     "expired": "Expirados",
     "no_date": "Sin fecha",
-    "reminder_completed": "Recordatorio completado"
+    "reminder_completed": "Recordatorio completado",
+    "future": "Futuros",
+    "all": "Todos",
+    "others": "Otros",
+    "log": "Bitácora"
   },
   "groups": {
     "title": "Grupos",

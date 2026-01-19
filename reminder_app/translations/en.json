@@ -59,7 +59,11 @@
     "active": "Active",
     "expired": "Expired",
     "no_date": "No date",
-    "reminder_completed": "Reminder completed"
+    "reminder_completed": "Reminder completed",
+    "future": "Future",
+    "all": "All",
+    "others": "Others",
+    "log": "Log"
   },
   "groups": {
     "title": "Groups",

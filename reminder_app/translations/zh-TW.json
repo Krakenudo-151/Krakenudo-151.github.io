@@ -59,7 +59,11 @@
     "active": "進行中",
     "expired": "已過期",
     "no_date": "無日期",
-    "reminder_completed": "提醒已完成"
+    "reminder_completed": "提醒已完成",
+    "future": "Future",
+    "all": "All",
+    "others": "Others",
+    "log": "Log"
   },
   "groups": {
     "title": "群組",

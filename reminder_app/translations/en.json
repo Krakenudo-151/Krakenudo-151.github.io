@@ -769,6 +769,10 @@
     "level0_notification_hint": "Reach level 1 (2 points) to activate notifications",
     "end_date_option": "End date option",
     "select_on_calendar": "Select on calendar",
-    "set_by_repetitions": "Set by repetitions"
+    "set_by_repetitions": "Set by repetitions",
+    "start_date": "Start date",
+    "first_occurrence": "First occurrence",
+    "select_start_date": "Select starting date and time",
+    "start_date_hint": "Select when the recurring pattern should start"
   }
 }

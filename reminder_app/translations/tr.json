@@ -769,6 +769,10 @@
     "level0_notification_hint": "Seviye 1 (2 puan)",
     "end_date_option": "Bitiş seçeneği",
     "select_on_calendar": "Takvimde",
-    "set_by_repetitions": "Tekrarlara göre"
+    "set_by_repetitions": "Tekrarlara göre",
+    "start_date": "Başlangıç tarihi",
+    "first_occurrence": "İlk tekrar",
+    "select_start_date": "Başlangıç tarih ve saatini seçin",
+    "start_date_hint": "Tekrar modelinin ne zaman başlaması gerektiğini seçin"
   }
 }

@@ -766,6 +766,10 @@
     "level0_notification_hint": "Osiągnij poziom 1 (2 punkty), aby aktywować powiadomienia.",
     "end_date_option": "Opcja daty zakończenia",
     "select_on_calendar": "Wybierz w kalendarzu",
-    "set_by_repetitions": "Ustal przez powtórzenia"
+    "set_by_repetitions": "Ustal przez powtórzenia",
+    "start_date": "Data rozpoczęcia",
+    "first_occurrence": "Pierwsze wystąpienie",
+    "select_start_date": "Wybierz datę i godzinę rozpoczęcia",
+    "start_date_hint": "Wybierz, kiedy ma się rozpocząć wzorzec powtarzania"
   }
 }

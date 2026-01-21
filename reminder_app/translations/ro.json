@@ -769,6 +769,10 @@
     "level0_notification_hint": "Atingeți nivelul 1 (2 puncte) pentru a activa notificările",
     "end_date_option": "Opțiune dată de sfârșit",
     "select_on_calendar": "Selectați în calendar",
-    "set_by_repetitions": "Setați prin repetări"
+    "set_by_repetitions": "Setați prin repetări",
+    "start_date": "Data de început",
+    "first_occurrence": "Prima apariție",
+    "select_start_date": "Selectați data și ora de început",
+    "start_date_hint": "Selectați când ar trebui să înceapă modelul de repetare"
   }
 }

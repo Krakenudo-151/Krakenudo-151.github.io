@@ -766,6 +766,10 @@
     "level0_notification_hint": "Livello 1 necessario",
     "end_date_option": "Opzione fine",
     "select_on_calendar": "Calendario",
-    "set_by_repetitions": "Per numero"
+    "set_by_repetitions": "Per numero",
+    "start_date": "Data di inizio",
+    "first_occurrence": "Prima ricorrenza",
+    "select_start_date": "Seleziona data e ora di inizio",
+    "start_date_hint": "Seleziona quando deve iniziare il pattern di ripetizione"
   }
 }

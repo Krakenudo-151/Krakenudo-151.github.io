@@ -766,6 +766,10 @@
     "level0_notification_hint": "Level 1 für Töne erforderlich",
     "end_date_option": "Ende-Option",
     "select_on_calendar": "Kalender",
-    "set_by_repetitions": "Nach Anzahl"
+    "set_by_repetitions": "Nach Anzahl",
+    "start_date": "Startdatum",
+    "first_occurrence": "Erste Wiederholung",
+    "select_start_date": "Startdatum und -uhrzeit auswählen",
+    "start_date_hint": "Wählen Sie aus, wann das Wiederholungsmuster beginnen soll"
   }
 }

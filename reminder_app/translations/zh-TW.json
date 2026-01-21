@@ -769,6 +769,10 @@
     "level0_notification_hint": "達到等級 1（2 積分）以啟用通知",
     "end_date_option": "結束日期選項",
     "select_on_calendar": "在行事曆上選擇",
-    "set_by_repetitions": "按重複次數設定"
+    "set_by_repetitions": "按重複次數設定",
+    "start_date": "開始日期",
+    "first_occurrence": "首次出現",
+    "select_start_date": "選擇開始日期和時間",
+    "start_date_hint": "選擇重複模式應該開始的時間"
   }
 }

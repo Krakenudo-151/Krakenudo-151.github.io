@@ -769,6 +769,10 @@
     "level0_notification_hint": "Уровень 1 (2 очка)",
     "end_date_option": "Опция конца",
     "select_on_calendar": "В календаре",
-    "set_by_repetitions": "По повторам"
+    "set_by_repetitions": "По повторам",
+    "start_date": "Дата начала",
+    "first_occurrence": "Первое повторение",
+    "select_start_date": "Выберите дату и время начала",
+    "start_date_hint": "Выберите, когда должен начаться шаблон повторения"
   }
 }

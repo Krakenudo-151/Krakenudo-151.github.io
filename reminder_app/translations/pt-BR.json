@@ -766,6 +766,10 @@
     "level0_notification_hint": "Atinja o nível 1 (2 pontos) para ativar notificações",
     "end_date_option": "Opção de data de término",
     "select_on_calendar": "Selecionar no calendário",
-    "set_by_repetitions": "Estabelecer por repetições"
+    "set_by_repetitions": "Estabelecer por repetições",
+    "start_date": "Data de início",
+    "first_occurrence": "Primeira ocorrência",
+    "select_start_date": "Selecionar data e hora de início",
+    "start_date_hint": "Selecione quando o padrão de repetição deve começar"
   }
 }

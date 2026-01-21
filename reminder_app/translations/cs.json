@@ -769,6 +769,10 @@
     "level0_notification_hint": "Dosáhněte úrovně 1 (2 body) pro aktivaci oznámení",
     "end_date_option": "Možnost data konce",
     "select_on_calendar": "Vybrat v kalendáři",
-    "set_by_repetitions": "Nastavit podle opakování"
+    "set_by_repetitions": "Nastavit podle opakování",
+    "start_date": "Datum zahájení",
+    "first_occurrence": "První opakování",
+    "select_start_date": "Vyberte datum a čas zahájení",
+    "start_date_hint": "Vyberte, kdy má začít opakování vzoru"
   }
 }

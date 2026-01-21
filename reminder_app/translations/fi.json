@@ -769,6 +769,10 @@
     "level0_notification_hint": "Saavuta taso 1 (2 pistettä) aktivoidaksesi ilmoitukset",
     "end_date_option": "Päättymispäivän vaihtoehto",
     "select_on_calendar": "Valitse kalenterista",
-    "set_by_repetitions": "Aseta toistojen mukaan"
+    "set_by_repetitions": "Aseta toistojen mukaan",
+    "start_date": "Aloituspäivä",
+    "first_occurrence": "Ensimmäinen toisto",
+    "select_start_date": "Valitse aloituspäivä ja -aika",
+    "start_date_hint": "Valitse, milloin toistokuvion tulisi alkaa"
   }
 }

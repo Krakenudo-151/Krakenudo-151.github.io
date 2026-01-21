@@ -766,6 +766,10 @@
     "level0_notification_hint": "达到等级 1（2 积分）以激活通知",
     "end_date_option": "结束日期选项",
     "select_on_calendar": "在日历上选择",
-    "set_by_repetitions": "按重复次数设置"
+    "set_by_repetitions": "按重复次数设置",
+    "start_date": "开始日期",
+    "first_occurrence": "首次出现",
+    "select_start_date": "选择开始日期和时间",
+    "start_date_hint": "选择重复模式应该开始的时间"
   }
 }

@@ -769,6 +769,10 @@
     "level0_notification_hint": "Достигнете ниво 1 (2 точки) за активиране на известия",
     "end_date_option": "Опция за крайна дата",
     "select_on_calendar": "Изберете в календара",
-    "set_by_repetitions": "Задай чрез повторения"
+    "set_by_repetitions": "Задай чрез повторения",
+    "start_date": "Начална дата",
+    "first_occurrence": "Първо повторение",
+    "select_start_date": "Изберете начална дата и час",
+    "start_date_hint": "Изберете кога трябва да започне моделът на повторение"
   }
 }

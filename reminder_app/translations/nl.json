@@ -766,6 +766,10 @@
     "level0_notification_hint": "Bereik niveau 1 (2 punten) om meldingen te activeren",
     "end_date_option": "Einddatumoptie",
     "select_on_calendar": "Selecteer in de kalender",
-    "set_by_repetitions": "Vaststellen door herhalingen"
+    "set_by_repetitions": "Vaststellen door herhalingen",
+    "start_date": "Startdatum",
+    "first_occurrence": "Eerste herhaling",
+    "select_start_date": "Selecteer startdatum en -tijd",
+    "start_date_hint": "Selecteer wanneer het herhalingspatroon moet beginnen"
   }
 }

@@ -769,6 +769,10 @@
     "level0_notification_hint": "Érje el az 1. szintet (2 pont) az értesítések aktiválásához",
     "end_date_option": "Befejezési dátum opció",
     "select_on_calendar": "Kiválasztás a naptárban",
-    "set_by_repetitions": "Beállítás ismétlések szerint"
+    "set_by_repetitions": "Beállítás ismétlések szerint",
+    "start_date": "Kezdő dátum",
+    "first_occurrence": "Első előfordulás",
+    "select_start_date": "Válassza ki a kezdő dátumot és időt",
+    "start_date_hint": "Válassza ki, mikor kezdődjön az ismétlődési minta"
   }
 }

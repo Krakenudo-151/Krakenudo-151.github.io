@@ -766,6 +766,10 @@
     "level0_notification_hint": "Nå nivå 1 (2 poeng) for å aktivere varslinger",
     "end_date_option": "Valg for sluttdato",
     "select_on_calendar": "Velg i kalender",
-    "set_by_repetitions": "Angi ved antall repetisjoner"
+    "set_by_repetitions": "Angi ved antall repetisjoner",
+    "start_date": "Startdato",
+    "first_occurrence": "Første forekomst",
+    "select_start_date": "Velg startdato og -tid",
+    "start_date_hint": "Velg når gjentakelsesmønsteret skal starte"
   }
 }

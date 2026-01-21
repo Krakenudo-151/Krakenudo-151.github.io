@@ -766,6 +766,10 @@
     "level0_notification_hint": "Atteindre niv. 1",
     "end_date_option": "Option fin",
     "select_on_calendar": "Kalender",
-    "set_by_repetitions": "Par nombre"
+    "set_by_repetitions": "Par nombre",
+    "start_date": "Date de début",
+    "first_occurrence": "Première occurrence",
+    "select_start_date": "Sélectionner la date et l'heure de début",
+    "start_date_hint": "Sélectionnez quand le modèle de répétition doit commencer"
   }
 }

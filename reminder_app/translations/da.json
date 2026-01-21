@@ -769,6 +769,10 @@
     "level0_notification_hint": "Nå niveau 1 (2 point) for at aktivere notifikationer",
     "end_date_option": "Slutdato-mulighed",
     "select_on_calendar": "Vælg i kalender",
-    "set_by_repetitions": "Indstil efter gentagelser"
+    "set_by_repetitions": "Indstil efter gentagelser",
+    "start_date": "Startdato",
+    "first_occurrence": "Første forekomst",
+    "select_start_date": "Vælg startdato og -tid",
+    "start_date_hint": "Vælg hvornår gentagelsesmønsteret skal starte"
   }
 }

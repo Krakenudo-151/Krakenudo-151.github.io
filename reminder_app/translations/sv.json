@@ -766,6 +766,10 @@
     "level0_notification_hint": "Nå nivå 1 (2 poäng) för att aktivera aviseringar",
     "end_date_option": "Alternativ för slutdatum",
     "select_on_calendar": "Välj i kalendern",
-    "set_by_repetitions": "Fastställa genom upprepningar"
+    "set_by_repetitions": "Fastställa genom upprepningar",
+    "start_date": "Startdatum",
+    "first_occurrence": "Första förekomst",
+    "select_start_date": "Välj startdatum och -tid",
+    "start_date_hint": "Välj när upprepningsmönstret ska börja"
   }
 }

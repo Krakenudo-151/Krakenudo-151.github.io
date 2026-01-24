@@ -774,5 +774,13 @@
     "first_occurrence": "首次出現",
     "select_start_date": "選擇開始日期和時間",
     "start_date_hint": "選擇重複模式應該開始的時間"
+  },
+  "notification_badge": {
+    "tooltip": "查看待辦提醒",
+    "help_title": "此徽章顯示什麼？",
+    "help_description": "此徽章顯示需要您立即關注的提醒數量。",
+    "criteria_status": "狀態：待辦或已過期",
+    "criteria_time": "時間：少於30分鐘",
+    "current_count": "您目前有 {count} 個緊急提醒"
   }
 }

@@ -771,5 +771,13 @@
     "first_occurrence": "Primeira ocorrência",
     "select_start_date": "Selecionar data e hora de início",
     "start_date_hint": "Selecione quando o padrão de repetição deve começar"
+  },
+  "notification_badge": {
+    "tooltip": "Ver lembretes pendentes",
+    "help_title": "O que este emblema mostra?",
+    "help_description": "Este emblema exibe o número de lembretes que requerem sua atenção imediata.",
+    "criteria_status": "Status: Pendente ou Expirado",
+    "criteria_time": "Tempo: Menos de 30 minutos",
+    "current_count": "Você tem atualmente {count} lembrete(s) urgente(s)"
   }
 }

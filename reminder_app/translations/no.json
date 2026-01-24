@@ -771,5 +771,13 @@
     "first_occurrence": "Første forekomst",
     "select_start_date": "Velg startdato og -tid",
     "start_date_hint": "Velg når gjentakelsesmønsteret skal starte"
+  },
+  "notification_badge": {
+    "tooltip": "Se ventende påminnelser",
+    "help_title": "Hva viser dette merket?",
+    "help_description": "Dette merket viser antall påminnelser som krever din umiddelbare oppmerksomhet.",
+    "criteria_status": "Status: Ventende eller Utløpt",
+    "criteria_time": "Tid: Mindre enn 30 minutter",
+    "current_count": "Du har for øyeblikket {count} presserende påminnelse(r)"
   }
 }

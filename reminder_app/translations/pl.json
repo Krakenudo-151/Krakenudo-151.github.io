@@ -771,5 +771,13 @@
     "first_occurrence": "Pierwsze wystąpienie",
     "select_start_date": "Wybierz datę i godzinę rozpoczęcia",
     "start_date_hint": "Wybierz, kiedy ma się rozpocząć wzorzec powtarzania"
+  },
+  "notification_badge": {
+    "tooltip": "Zobacz oczekujące przypomnienia",
+    "help_title": "Co pokazuje ta odznaka?",
+    "help_description": "Ta odznaka wyświetla liczbę przypomnień wymagających natychmiastowej uwagi.",
+    "criteria_status": "Status: Oczekujące lub Wygasłe",
+    "criteria_time": "Czas: Mniej niż 30 minut",
+    "current_count": "Obecnie masz {count} pilne przypomnienie/przypomnienia"
   }
 }

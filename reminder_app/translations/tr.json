@@ -774,5 +774,13 @@
     "first_occurrence": "İlk tekrar",
     "select_start_date": "Başlangıç tarih ve saatini seçin",
     "start_date_hint": "Tekrar modelinin ne zaman başlaması gerektiğini seçin"
+  },
+  "notification_badge": {
+    "tooltip": "Bekleyen hatırlatıcıları görüntüle",
+    "help_title": "Bu rozet neyi gösterir?",
+    "help_description": "Bu rozet, acil dikkatinizi gerektiren hatırlatıcıların sayısını gösterir.",
+    "criteria_status": "Durum: Beklemede veya Süresi Dolmuş",
+    "criteria_time": "Zaman: 30 dakikadan az",
+    "current_count": "Şu anda {count} acil hatırlatıcınız var"
   }
 }

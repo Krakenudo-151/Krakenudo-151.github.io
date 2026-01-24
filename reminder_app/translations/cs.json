@@ -774,5 +774,13 @@
     "first_occurrence": "První opakování",
     "select_start_date": "Vyberte datum a čas zahájení",
     "start_date_hint": "Vyberte, kdy má začít opakování vzoru"
+  },
+  "notification_badge": {
+    "tooltip": "Zobrazit čekající připomínky",
+    "help_title": "Co tento odznak zobrazuje?",
+    "help_description": "Tento odznak zobrazuje počet připomínek vyžadujících vaši okamžitou pozornost.",
+    "criteria_status": "Stav: Čekající nebo Vypršelé",
+    "criteria_time": "Čas: Méně než 30 minut",
+    "current_count": "Aktuálně máte {count} naléhavou/é připomínku/y"
   }
 }

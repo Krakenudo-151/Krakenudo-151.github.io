@@ -774,5 +774,13 @@
     "first_occurrence": "Første forekomst",
     "select_start_date": "Vælg startdato og -tid",
     "start_date_hint": "Vælg hvornår gentagelsesmønsteret skal starte"
+  },
+  "notification_badge": {
+    "tooltip": "Se afventende påmindelser",
+    "help_title": "Hvad viser dette badge?",
+    "help_description": "Dette badge viser antallet af påmindelser, der kræver din øjeblikkelige opmærksomhed.",
+    "criteria_status": "Status: Afventende eller Udløbet",
+    "criteria_time": "Tid: Mindre end 30 minutter",
+    "current_count": "Du har i øjeblikket {count} presserende påmindelse(r)"
   }
 }

@@ -774,5 +774,13 @@
     "first_occurrence": "Prima apariție",
     "select_start_date": "Selectați data și ora de început",
     "start_date_hint": "Selectați când ar trebui să înceapă modelul de repetare"
+  },
+  "notification_badge": {
+    "tooltip": "Vizualizare mementouri în așteptare",
+    "help_title": "Ce arată această insignă?",
+    "help_description": "Această insignă afișează numărul de mementouri care necesită atenția ta imediată.",
+    "criteria_status": "Stare: În așteptare sau Expirat",
+    "criteria_time": "Timp: Mai puțin de 30 de minute",
+    "current_count": "Ai în prezent {count} memento(uri) urgent(e)"
   }
 }

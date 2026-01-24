@@ -774,5 +774,13 @@
     "first_occurrence": "Primera ocurrencia",
     "select_start_date": "Seleccionar fecha y hora de inicio",
     "start_date_hint": "Selecciona cuándo debe comenzar el patrón de repetición"
+  },
+  "notification_badge": {
+    "tooltip": "Ver recordatorios pendientes",
+    "help_title": "¿Qué muestra este indicador?",
+    "help_description": "Este indicador muestra el número de recordatorios que requieren tu atención inmediata.",
+    "criteria_status": "Estado: Pendiente o Expirado",
+    "criteria_time": "Tiempo: A menos de 30 minutos",
+    "current_count": "Actualmente tienes {count} recordatorio(s) urgente(s)"
   }
 }

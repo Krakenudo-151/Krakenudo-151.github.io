@@ -771,5 +771,13 @@
     "first_occurrence": "Erste Wiederholung",
     "select_start_date": "Startdatum und -uhrzeit auswählen",
     "start_date_hint": "Wählen Sie aus, wann das Wiederholungsmuster beginnen soll"
+  },
+  "notification_badge": {
+    "tooltip": "Ausstehende Erinnerungen anzeigen",
+    "help_title": "Was zeigt dieses Badge?",
+    "help_description": "Dieses Badge zeigt die Anzahl der Erinnerungen, die Ihre sofortige Aufmerksamkeit erfordern.",
+    "criteria_status": "Status: Ausstehend oder Abgelaufen",
+    "criteria_time": "Zeit: Weniger als 30 Minuten entfernt",
+    "current_count": "Sie haben derzeit {count} dringende Erinnerung(en)"
   }
 }

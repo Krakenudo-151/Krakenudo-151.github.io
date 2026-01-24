@@ -771,5 +771,13 @@
     "first_occurrence": "Prima ricorrenza",
     "select_start_date": "Seleziona data e ora di inizio",
     "start_date_hint": "Seleziona quando deve iniziare il pattern di ripetizione"
+  },
+  "notification_badge": {
+    "tooltip": "Visualizza promemoria in sospeso",
+    "help_title": "Cosa mostra questo badge?",
+    "help_description": "Questo badge mostra il numero di promemoria che richiedono la tua attenzione immediata.",
+    "criteria_status": "Stato: In sospeso o Scaduto",
+    "criteria_time": "Tempo: Meno di 30 minuti",
+    "current_count": "Attualmente hai {count} promemoria urgente/i"
   }
 }

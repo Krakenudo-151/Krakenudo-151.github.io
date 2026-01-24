@@ -774,5 +774,13 @@
     "first_occurrence": "First occurrence",
     "select_start_date": "Select starting date and time",
     "start_date_hint": "Select when the recurring pattern should start"
+  },
+  "notification_badge": {
+    "tooltip": "View pending reminders",
+    "help_title": "What does this badge show?",
+    "help_description": "This badge displays the number of reminders requiring your immediate attention.",
+    "criteria_status": "Status: Pending or Expired",
+    "criteria_time": "Time: Less than 30 minutes away",
+    "current_count": "You currently have {count} urgent reminder(s)"
   }
 }

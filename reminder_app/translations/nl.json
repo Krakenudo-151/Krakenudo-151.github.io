@@ -771,5 +771,13 @@
     "first_occurrence": "Eerste herhaling",
     "select_start_date": "Selecteer startdatum en -tijd",
     "start_date_hint": "Selecteer wanneer het herhalingspatroon moet beginnen"
+  },
+  "notification_badge": {
+    "tooltip": "Openstaande herinneringen bekijken",
+    "help_title": "Wat toont deze badge?",
+    "help_description": "Deze badge toont het aantal herinneringen dat uw onmiddellijke aandacht vereist.",
+    "criteria_status": "Status: In afwachting of Verlopen",
+    "criteria_time": "Tijd: Minder dan 30 minuten",
+    "current_count": "U heeft momenteel {count} urgente herinnering(en)"
   }
 }

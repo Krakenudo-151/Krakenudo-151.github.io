@@ -771,5 +771,13 @@
     "first_occurrence": "Första förekomst",
     "select_start_date": "Välj startdatum och -tid",
     "start_date_hint": "Välj när upprepningsmönstret ska börja"
+  },
+  "notification_badge": {
+    "tooltip": "Visa väntande påminnelser",
+    "help_title": "Vad visar detta märke?",
+    "help_description": "Detta märke visar antalet påminnelser som kräver din omedelbara uppmärksamhet.",
+    "criteria_status": "Status: Väntande eller Utgången",
+    "criteria_time": "Tid: Mindre än 30 minuter",
+    "current_count": "Du har för närvarande {count} brådskande påminnelse(r)"
   }
 }

@@ -774,5 +774,13 @@
     "first_occurrence": "Ensimmäinen toisto",
     "select_start_date": "Valitse aloituspäivä ja -aika",
     "start_date_hint": "Valitse, milloin toistokuvion tulisi alkaa"
+  },
+  "notification_badge": {
+    "tooltip": "Näytä odottavat muistutukset",
+    "help_title": "Mitä tämä merkki näyttää?",
+    "help_description": "Tämä merkki näyttää niiden muistutusten määrän, jotka vaativat välitöntä huomiotasi.",
+    "criteria_status": "Tila: Odottaa tai Vanhentunut",
+    "criteria_time": "Aika: Alle 30 minuuttia",
+    "current_count": "Sinulla on tällä hetkellä {count} kiireellinen/tä muistutus/ta"
   }
 }

@@ -771,5 +771,13 @@
     "first_occurrence": "Première occurrence",
     "select_start_date": "Sélectionner la date et l'heure de début",
     "start_date_hint": "Sélectionnez quand le modèle de répétition doit commencer"
+  },
+  "notification_badge": {
+    "tooltip": "Voir les rappels en attente",
+    "help_title": "Que montre ce badge ?",
+    "help_description": "Ce badge affiche le nombre de rappels nécessitant votre attention immédiate.",
+    "criteria_status": "Statut : En attente ou Expiré",
+    "criteria_time": "Temps : Moins de 30 minutes",
+    "current_count": "Vous avez actuellement {count} rappel(s) urgent(s)"
   }
 }

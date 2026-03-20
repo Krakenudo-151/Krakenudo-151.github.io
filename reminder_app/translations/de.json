@@ -256,6 +256,7 @@
     "no_cached_users": "Keine Benutzer im Cache gefunden",
     "history": "Verlauf",
     "no_history": "Keine Historie verfügbar",
+    "log_header": "Logbuch",
     "collapse_all": "Alles zusammenklappen",
     "expand_all": "Alles erweitern",
     "view_more_logs": "Weitere Protokolle anzeigen",
@@ -510,7 +511,9 @@
     "delete_response_title": "Antwort löschen",
     "delete_response_message": "Möchten Sie diese Antwort wirklich löschen? Diese Aktion kann nicht rückgängig gemacht werden",
     "deleting_response": "Antwort wird gelöscht...",
-    "deleted_response_success": "Antwort erfolgreich gelöscht"
+    "deleted_response_success": "Antwort erfolgreich gelöscht",
+    "log_entry_title": "Im Logbuch notieren: \"{title}\"",
+    "add_log_entry": "Eintrag"
   },
   "confirm_edit": {
     "title": "Antwort eines anderen bearbeiten",
@@ -702,7 +705,8 @@
     "x_months_ago": "-{count}M"
   },
   "reminder_card": {
-    "level0_no_notifications": "Stumm (Level 0)"
+    "level0_no_notifications": "Stumm (Level 0)",
+    "add_log_entry": "Eintrag"
   },
   "reminder_form": {
     "new_reminder": "Neue Erinnerung",
@@ -716,6 +720,7 @@
     "description": "Notiz",
     "type_once": "Einmalig",
     "type_recurring": "Wiederkehrend",
+    "type_log": "Logbuch",
     "type_daily": "Täglich",
     "type_weekly": "Wöchentlich",
     "type_monthly": "Monatlich",

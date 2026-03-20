@@ -256,6 +256,7 @@
     "no_cached_users": "Nessun utente",
     "history": "Cronologia",
     "no_history": "Nessuna cronologia",
+    "log_header": "Registro",
     "collapse_all": "Chiudi tutto",
     "expand_all": "Espandi tutto",
     "view_more_logs": "Vedi altri",
@@ -510,7 +511,9 @@
     "delete_response_title": "Elimina risposta",
     "delete_response_message": "Sei sicuro di voler eliminare questa risposta? Questa azione non può essere annullata",
     "deleting_response": "Eliminazione risposta...",
-    "deleted_response_success": "Risposta eliminata con successo"
+    "deleted_response_success": "Risposta eliminata con successo",
+    "log_entry_title": "Annota in \"{title}\"",
+    "add_log_entry": "Annota"
   },
   "confirm_edit": {
     "title": "Modifica altri",
@@ -702,7 +705,8 @@
     "x_months_ago": "-{count}m"
   },
   "reminder_card": {
-    "level0_no_notifications": "Muto (niv. 0)"
+    "level0_no_notifications": "Muto (niv. 0)",
+    "add_log_entry": "Annota"
   },
   "reminder_form": {
     "new_reminder": "Nuovo",
@@ -716,6 +720,7 @@
     "description": "Nota",
     "type_once": "Unica",
     "type_recurring": "Ricorrente",
+    "type_log": "Registro",
     "type_daily": "Quotidiano",
     "type_weekly": "Settimanale",
     "type_monthly": "Mensile",

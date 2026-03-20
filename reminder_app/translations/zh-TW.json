@@ -259,6 +259,7 @@
     "no_cached_users": "快取中未找到使用者",
     "history": "歷史記錄",
     "no_history": "沒有可用的歷史記錄",
+    "log_header": "日誌",
     "collapse_all": "全部收起",
     "expand_all": "全部展開",
     "view_more_logs": "查看更多記錄",
@@ -513,7 +514,9 @@
     "delete_response_title": "刪除回答",
     "delete_response_message": "您確定要刪除此回答嗎？此動作無法復原",
     "deleting_response": "正在刪除回答...",
-    "deleted_response_success": "回答刪除成功"
+    "deleted_response_success": "回答刪除成功",
+    "log_entry_title": "新增至 \"{title}\"",
+    "add_log_entry": "新增記錄"
   },
   "confirm_edit": {
     "title": "編輯其他使用者的回答",
@@ -705,7 +708,8 @@
     "x_months_ago": "-{count}個月"
   },
   "reminder_card": {
-    "level0_no_notifications": "無通知（等級 0）"
+    "level0_no_notifications": "無通知（等級 0）",
+    "add_log_entry": "新增記錄"
   },
   "reminder_form": {
     "new_reminder": "新提醒",
@@ -719,6 +723,7 @@
     "description": "描述",
     "type_once": "一次",
     "type_recurring": "重複",
+    "type_log": "日誌",
     "type_daily": "每天",
     "type_weekly": "每週",
     "type_monthly": "每月",

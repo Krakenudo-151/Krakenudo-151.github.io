@@ -259,6 +259,7 @@
     "no_cached_users": "No users found in cache",
     "history": "History",
     "no_history": "No history available",
+    "log_header": "Logbook",
     "collapse_all": "Collapse all",
     "expand_all": "Expand all",
     "view_more_logs": "See more logs",
@@ -513,7 +514,9 @@
     "delete_response_title": "Delete response",
     "delete_response_message": "Are you sure you want to delete this response? This action cannot be undone",
     "deleting_response": "Deleting response...",
-    "deleted_response_success": "Response deleted successfully"
+    "deleted_response_success": "Response deleted successfully",
+    "log_entry_title": "Add to log \"{title}\"",
+    "add_log_entry": "Add entry"
   },
   "confirm_edit": {
     "title": "Edit another user's response",
@@ -705,7 +708,8 @@
     "x_months_ago": "-{count}mo"
   },
   "reminder_card": {
-    "level0_no_notifications": "No notifications (level 0)"
+    "level0_no_notifications": "No notifications (level 0)",
+    "add_log_entry": "Add entry"
   },
   "reminder_form": {
     "new_reminder": "New Reminder",
@@ -719,6 +723,7 @@
     "description": "Description",
     "type_once": "Once",
     "type_recurring": "Recurring",
+    "type_log": "Log",
     "type_daily": "Daily",
     "type_weekly": "Weekly",
     "type_monthly": "Monthly",

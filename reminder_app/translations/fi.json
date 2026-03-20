@@ -259,6 +259,7 @@
     "no_cached_users": "Välimuistista ei löytynyt käyttäjiä",
     "history": "Historia",
     "no_history": "Ei saatavilla olevaa historiaa",
+    "log_header": "Lokikirja",
     "collapse_all": "Pienennä kaikki",
     "expand_all": "Laajenna kaikki",
     "view_more_logs": "Näytä lisää lokeja",
@@ -513,7 +514,9 @@
     "delete_response_title": "Poista vastaus",
     "delete_response_message": "Haluatko varmasti poistaa tämän vastauksen? Tätä toimintoa ei voi peruuttaa",
     "deleting_response": "Poistetaan vastausta...",
-    "deleted_response_success": "Vastaus poistettu onnistuneesti"
+    "deleted_response_success": "Vastaus poistettu onnistuneesti",
+    "log_entry_title": "Lisää lokiin \"{title}\"",
+    "add_log_entry": "Lisää"
   },
   "confirm_edit": {
     "title": "Muokkaa toisen käyttäjän vastausta",
@@ -705,7 +708,8 @@
     "x_months_ago": "-{count}kk"
   },
   "reminder_card": {
-    "level0_no_notifications": "Ei ilmoituksia (taso 0)"
+    "level0_no_notifications": "Ei ilmoituksia (taso 0)",
+    "add_log_entry": "Lisää"
   },
   "reminder_form": {
     "new_reminder": "Uusi muistutus",
@@ -719,6 +723,7 @@
     "description": "Kuvaus",
     "type_once": "Kerran",
     "type_recurring": "Toistuva",
+    "type_log": "Loki",
     "type_daily": "Päivittäin",
     "type_weekly": "Viikoittain",
     "type_monthly": "Kuukausittain",

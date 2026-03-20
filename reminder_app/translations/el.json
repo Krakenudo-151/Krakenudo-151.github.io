@@ -256,6 +256,7 @@
     "no_cached_users": "Δεν βρέθηκαν χρήστες στην προσωρινή μνήμη",
     "history": "Ιστορικό",
     "no_history": "Δεν υπάρχει διαθέσιμο ιστορικό",
+    "log_header": "Ημερολόγιο",
     "collapse_all": "Σύμπτυξη όλων",
     "expand_all": "Επεκτείνετε όλα",
     "view_more_logs": "Δείτε περισσότερα αρχεία καταγραφής",
@@ -510,7 +511,9 @@
     "delete_response_title": "Διαγραφή απάντησης",
     "delete_response_message": "Είστε βέβαιοι ότι θέλετε να διαγράψετε αυτήν την απάντηση; Αυτή η ενέργεια δεν μπορεί να αναιρεθεί",
     "deleting_response": "Διαγραφή απάντησης...",
-    "deleted_response_success": "Η απάντηση διαγράφηκε με επιτυχία"
+    "deleted_response_success": "Η απάντηση διαγράφηκε με επιτυχία",
+    "log_entry_title": "Προσθήκη στο \"{title}\"",
+    "add_log_entry": "Προσθήκη"
   },
   "confirm_edit": {
     "title": "Επεξεργασία απάντησης άλλου χρήστη",
@@ -702,7 +705,8 @@
     "x_months_ago": "-m{count}"
   },
   "reminder_card": {
-    "level0_no_notifications": "Χωρίς ειδοποιήσεις (επίπεδο 0)"
+    "level0_no_notifications": "Χωρίς ειδοποιήσεις (επίπεδο 0)",
+    "add_log_entry": "Προσθήκη"
   },
   "reminder_form": {
     "new_reminder": "Νέα υπενθύμιση",
@@ -716,6 +720,7 @@
     "description": "Περιγραφή",
     "type_once": "Μία φορά",
     "type_recurring": "Επαναλαμβανόμενος",
+    "type_log": "Ημερολόγιο",
     "type_daily": "Ημερήσιο",
     "type_weekly": "Εβδομαδιαία",
     "type_monthly": "Μηνιαία",

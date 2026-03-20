@@ -256,6 +256,7 @@
     "no_cached_users": "Não foram encontrados usuários no cache",
     "history": "Histórico",
     "no_history": "Não há histórico disponível",
+    "log_header": "Registro",
     "collapse_all": "Recolher tudo",
     "expand_all": "Expandir tudo",
     "view_more_logs": "Ver mais registros",
@@ -510,7 +511,9 @@
     "delete_response_title": "Excluir resposta",
     "delete_response_message": "Tem certeza de que deseja excluir esta resposta? Esta ação não pode ser desfeita",
     "deleting_response": "Excluindo resposta...",
-    "deleted_response_success": "Resposta excluída com sucesso"
+    "deleted_response_success": "Resposta excluída com sucesso",
+    "log_entry_title": "Anotar em \"{title}\"",
+    "add_log_entry": "Anotar"
   },
   "confirm_edit": {
     "title": "Editar resposta de outro usuário",
@@ -702,7 +705,8 @@
     "x_months_ago": "-m{count}"
   },
   "reminder_card": {
-    "level0_no_notifications": "Sem notificações (nível 0)"
+    "level0_no_notifications": "Sem notificações (nível 0)",
+    "add_log_entry": "Anotar"
   },
   "reminder_form": {
     "new_reminder": "Novo Lembrete",
@@ -716,6 +720,7 @@
     "description": "Descrição",
     "type_once": "Uma vez",
     "type_recurring": "Recorrente",
+    "type_log": "Registro",
     "type_daily": "Diário",
     "type_weekly": "Semanal",
     "type_monthly": "Mensal",

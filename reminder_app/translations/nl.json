@@ -256,6 +256,7 @@
     "no_cached_users": "Er zijn geen gebruikers in de cache gevonden.",
     "history": "Geschiedenis",
     "no_history": "Er is geen geschiedenis beschikbaar.",
+    "log_header": "Logboek",
     "collapse_all": "Alles samenvouwen",
     "expand_all": "Alles uitvouwen",
     "view_more_logs": "Meer logs bekijken",
@@ -510,7 +511,9 @@
     "delete_response_title": "Antwoord verwijderen",
     "delete_response_message": "Weet u zeker dat u dit antwoord wilt verwijderen? Deze actie kan niet ongedaan worden gemaakt",
     "deleting_response": "Antwoord verwijderen...",
-    "deleted_response_success": "Antwoord succesvol verwijderd"
+    "deleted_response_success": "Antwoord succesvol verwijderd",
+    "log_entry_title": "Toevoegen aan \"{title}\"",
+    "add_log_entry": "Toevoegen"
   },
   "confirm_edit": {
     "title": "Reactie van een andere gebruiker bewerken",
@@ -702,7 +705,8 @@
     "x_months_ago": "-m{count}"
   },
   "reminder_card": {
-    "level0_no_notifications": "Geen meldingen (niveau 0)"
+    "level0_no_notifications": "Geen meldingen (niveau 0)",
+    "add_log_entry": "Toevoegen"
   },
   "reminder_form": {
     "new_reminder": "Nieuwe herinnering",
@@ -716,6 +720,7 @@
     "description": "Beschrijving",
     "type_once": "Eenmaal",
     "type_recurring": "Terugkerend",
+    "type_log": "Logboek",
     "type_daily": "Dagboek",
     "type_weekly": "Wekelijks",
     "type_monthly": "Maandelijks",

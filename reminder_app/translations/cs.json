@@ -259,6 +259,7 @@
     "no_cached_users": "V mezipaměti nenalezeni žádní uživatelé",
     "history": "Historie",
     "no_history": "Historie není k dispozici",
+    "log_header": "Deník",
     "collapse_all": "Sbalit vše",
     "expand_all": "Rozbalit vše",
     "view_more_logs": "Zobrazit další záznamy",
@@ -513,7 +514,9 @@
     "delete_response_title": "Smazat odpověď",
     "delete_response_message": "Opravdu chcete smazat tuto odpověď? Tuto akci nelze vrátit zpět",
     "deleting_response": "Mazání odpovědi...",
-    "deleted_response_success": "Odpověď úspěšně smazána"
+    "deleted_response_success": "Odpověď úspěšně smazána",
+    "log_entry_title": "Přidat do \"{title}\"",
+    "add_log_entry": "Přidat"
   },
   "confirm_edit": {
     "title": "Upravit odpověď jiného uživatele",
@@ -705,7 +708,8 @@
     "x_months_ago": "-{count}m"
   },
   "reminder_card": {
-    "level0_no_notifications": "Bez oznámení (úroveň 0)"
+    "level0_no_notifications": "Bez oznámení (úroveň 0)",
+    "add_log_entry": "Přidat"
   },
   "reminder_form": {
     "new_reminder": "Nové připomenutí",
@@ -719,6 +723,7 @@
     "description": "Popis",
     "type_once": "Jednou",
     "type_recurring": "Opakující se",
+    "type_log": "Deník",
     "type_daily": "Denně",
     "type_weekly": "Týdně",
     "type_monthly": "Měsíčně",

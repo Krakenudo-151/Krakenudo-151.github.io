@@ -259,6 +259,7 @@
     "no_cached_users": "Niciun utilizator găsit în cache",
     "history": "Istoric",
     "no_history": "Istoric indisponibil",
+    "log_header": "Jurnal",
     "collapse_all": "Restrânge toate",
     "expand_all": "Extinde toate",
     "view_more_logs": "Vezi mai multe înregistrări",
@@ -513,7 +514,9 @@
     "delete_response_title": "Șterge răspuns",
     "delete_response_message": "Sigur doriți să ștergeți acest răspuns? Această acțiune nu poate fi anulată",
     "deleting_response": "Se șterge răspunsul...",
-    "deleted_response_success": "Răspuns șters cu succes"
+    "deleted_response_success": "Răspuns șters cu succes",
+    "log_entry_title": "Adaugă în \"{title}\"",
+    "add_log_entry": "Adaugă"
   },
   "confirm_edit": {
     "title": "Editează răspunsul altui utilizator",
@@ -705,7 +708,8 @@
     "x_months_ago": "-{count}l"
   },
   "reminder_card": {
-    "level0_no_notifications": "Fără notificări (nivel 0)"
+    "level0_no_notifications": "Fără notificări (nivel 0)",
+    "add_log_entry": "Adaugă"
   },
   "reminder_form": {
     "new_reminder": "Memento nou",
@@ -719,6 +723,7 @@
     "description": "Descriere",
     "type_once": "O dată",
     "type_recurring": "Recurent",
+    "type_log": "Jurnal",
     "type_daily": "Zilnic",
     "type_weekly": "Săptămânal",
     "type_monthly": "Lunar",

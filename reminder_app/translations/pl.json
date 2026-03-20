@@ -256,6 +256,7 @@
     "no_cached_users": "Nie znaleziono użytkowników w pamięci podręcznej.",
     "history": "Historia",
     "no_history": "Brak dostępnej historii",
+    "log_header": "Dziennik",
     "collapse_all": "Zwiń wszystko",
     "expand_all": "Rozwiń wszystko",
     "view_more_logs": "Zobacz więcej logów",
@@ -510,7 +511,9 @@
     "delete_response_title": "Usuń odpowiedź",
     "delete_response_message": "Czy na pewno chcesz usunąć tę odpowiedź? Tej czynności nie można cofnąć",
     "deleting_response": "Usuwanie odpowiedzi...",
-    "deleted_response_success": "Odpowiedź została pomyślnie usunięta"
+    "deleted_response_success": "Odpowiedź została pomyślnie usunięta",
+    "log_entry_title": "Zapisz w \"{title}\"",
+    "add_log_entry": "Dodaj wpis"
   },
   "confirm_edit": {
     "title": "Edytuj odpowiedź innego użytkownika",
@@ -702,7 +705,8 @@
     "x_months_ago": "-m{count}"
   },
   "reminder_card": {
-    "level0_no_notifications": "Bez powiadomień (poziom 0)"
+    "level0_no_notifications": "Bez powiadomień (poziom 0)",
+    "add_log_entry": "Dodaj wpis"
   },
   "reminder_form": {
     "new_reminder": "Nowe przypomnienie",
@@ -716,6 +720,7 @@
     "description": "Opis",
     "type_once": "Raz",
     "type_recurring": "Powtarzający się",
+    "type_log": "Dziennik",
     "type_daily": "Dziennik",
     "type_weekly": "Tygodniowy",
     "type_monthly": "Miesięcznie",

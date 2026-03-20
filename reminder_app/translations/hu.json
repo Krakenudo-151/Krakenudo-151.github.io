@@ -259,6 +259,7 @@
     "no_cached_users": "Nem találhatók felhasználók a gyorsítótárban",
     "history": "Előzmények",
     "no_history": "Nincs elérhető előzmény",
+    "log_header": "Napló",
     "collapse_all": "Összes összecsukása",
     "expand_all": "Összes kibontása",
     "view_more_logs": "További naplók megtekintése",
@@ -513,7 +514,9 @@
     "delete_response_title": "Válasz törlése",
     "delete_response_message": "Biztosan törölni szeretné ezt a választ? Ez a művelet nem vonható vissza",
     "deleting_response": "Válasz törlése...",
-    "deleted_response_success": "Válasz sikeresen törölve"
+    "deleted_response_success": "Válasz sikeresen törölve",
+    "log_entry_title": "Felvétel ide: \"{title}\"",
+    "add_log_entry": "Hozzáad"
   },
   "confirm_edit": {
     "title": "Másik felhasználó válaszának szerkesztése",
@@ -705,7 +708,8 @@
     "x_months_ago": "-{count}hó"
   },
   "reminder_card": {
-    "level0_no_notifications": "Nincs értesítés (0. szint)"
+    "level0_no_notifications": "Nincs értesítés (0. szint)",
+    "add_log_entry": "Hozzáad"
   },
   "reminder_form": {
     "new_reminder": "Új emlékeztető",
@@ -719,6 +723,7 @@
     "description": "Leírás",
     "type_once": "Egyszer",
     "type_recurring": "Ismétlődő",
+    "type_log": "Napló",
     "type_daily": "Naponta",
     "type_weekly": "Hetente",
     "type_monthly": "Havonta",

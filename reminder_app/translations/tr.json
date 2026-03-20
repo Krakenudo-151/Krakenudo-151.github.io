@@ -259,6 +259,7 @@
     "no_cached_users": "Önbellek yok",
     "history": "Geçmiş",
     "no_history": "Geçmiş yok",
+    "log_header": "Günlük",
     "collapse_all": "Daralt",
     "expand_all": "Genişlet",
     "view_more_logs": "Daha fazla",
@@ -513,7 +514,9 @@
     "delete_response_title": "Sil?",
     "delete_response_message": "Yanıtı sil? Geri alınamaz",
     "deleting_response": "Siliniyor...",
-    "deleted_response_success": "Silindi"
+    "deleted_response_success": "Silindi",
+    "log_entry_title": "\"{title}\" günlüğüne ekle",
+    "add_log_entry": "Ekle"
   },
   "confirm_edit": {
     "title": "Başka yanıtı düzenle",
@@ -705,7 +708,8 @@
     "x_months_ago": "-{count}a"
   },
   "reminder_card": {
-    "level0_no_notifications": "Bildirim yok (seviye 0)"
+    "level0_no_notifications": "Bildirim yok (seviye 0)",
+    "add_log_entry": "Ekle"
   },
   "reminder_form": {
     "new_reminder": "Yeni hatırlatıcı",
@@ -719,6 +723,7 @@
     "description": "Açıklama",
     "type_once": "Bir kez",
     "type_recurring": "Tekrarlı",
+    "type_log": "Günlük",
     "type_daily": "Günlük",
     "type_weekly": "Haftalık",
     "type_monthly": "Aylık",

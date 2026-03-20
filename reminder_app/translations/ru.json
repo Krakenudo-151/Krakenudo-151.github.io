@@ -259,6 +259,7 @@
     "no_cached_users": "Нет кэша",
     "history": "История",
     "no_history": "Нет истории",
+    "log_header": "Журнал",
     "collapse_all": "Свернуть",
     "expand_all": "Развернуть",
     "view_more_logs": "Еще",
@@ -513,7 +514,9 @@
     "delete_response_title": "Удалить?",
     "delete_response_message": "Удалить ответ? Отменить нельзя",
     "deleting_response": "Удаление...",
-    "deleted_response_success": "Удалено"
+    "deleted_response_success": "Удалено",
+    "log_entry_title": "Записать в \"{title}\"",
+    "add_log_entry": "Записать"
   },
   "confirm_edit": {
     "title": "Редактировать чужой ответ",
@@ -705,7 +708,8 @@
     "x_months_ago": "-{count}м"
   },
   "reminder_card": {
-    "level0_no_notifications": "Нет уведомлений (уровень 0)"
+    "level0_no_notifications": "Нет уведомлений (уровень 0)",
+    "add_log_entry": "Записать"
   },
   "reminder_form": {
     "new_reminder": "Новое напоминание",
@@ -719,6 +723,7 @@
     "description": "Описание",
     "type_once": "Один раз",
     "type_recurring": "Повторяющееся",
+    "type_log": "Журнал",
     "type_daily": "Ежедневно",
     "type_weekly": "Еженедельно",
     "type_monthly": "Ежемесячно",

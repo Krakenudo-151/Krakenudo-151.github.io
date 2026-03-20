@@ -259,6 +259,7 @@
     "no_cached_users": "Не са намерени потребители в кеша",
     "history": "История",
     "no_history": "Няма налична история",
+    "log_header": "Дневник",
     "collapse_all": "Свий всички",
     "expand_all": "Разшири всички",
     "view_more_logs": "Виж повече записи",
@@ -513,7 +514,9 @@
     "delete_response_title": "Изтрий отговор",
     "delete_response_message": "Сигурни ли сте, че искате да изтриете този отговор? Това действие не може да бъде отменено",
     "deleting_response": "Изтриване на отговор...",
-    "deleted_response_success": "Отговорът е изтрит успешно"
+    "deleted_response_success": "Отговорът е изтрит успешно",
+    "log_entry_title": "Добавяне в \"{title}\"",
+    "add_log_entry": "Добавяне"
   },
   "confirm_edit": {
     "title": "Редактирай отговора на друг потребител",
@@ -705,7 +708,8 @@
     "x_months_ago": "-{count}м"
   },
   "reminder_card": {
-    "level0_no_notifications": "Без известия (ниво 0)"
+    "level0_no_notifications": "Без известия (ниво 0)",
+    "add_log_entry": "Добавяне"
   },
   "reminder_form": {
     "new_reminder": "Ново напомняне",
@@ -719,6 +723,7 @@
     "description": "Описание",
     "type_once": "Еднократно",
     "type_recurring": "Повтарящо се",
+    "type_log": "Дневник",
     "type_daily": "Ежедневно",
     "type_weekly": "Седмично",
     "type_monthly": "Месечно",

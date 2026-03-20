@@ -259,6 +259,7 @@
     "no_cached_users": "No se encontraron usuarios en caché",
     "history": "Historial",
     "no_history": "No hay historial disponible",
+    "log_header": "Bitácora",
     "collapse_all": "Colapsar todo",
     "expand_all": "Expandir todo",
     "view_more_logs": "Ver más logs",
@@ -513,7 +514,9 @@
     "delete_response_title": "Eliminar respuesta",
     "delete_response_message": "¿Estás seguro de que quieres eliminar esta respuesta? Esta acción no se puede deshacer",
     "deleting_response": "Eliminando respuesta...",
-    "deleted_response_success": "Respuesta eliminada correctamente"
+    "deleted_response_success": "Respuesta eliminada correctamente",
+    "log_entry_title": "Anotar en \"{title}\"",
+    "add_log_entry": "Anotar"
   },
   "confirm_edit": {
     "title": "Editar respuesta de otro usuario",
@@ -705,7 +708,8 @@
     "x_months_ago": "-{count}m"
   },
   "reminder_card": {
-    "level0_no_notifications": "Sin notificaciones (nivel 0)"
+    "level0_no_notifications": "Sin notificaciones (nivel 0)",
+    "add_log_entry": "Anotar"
   },
   "reminder_form": {
     "new_reminder": "Nuevo Recordatorio",
@@ -719,6 +723,7 @@
     "description": "Descripción",
     "type_once": "Una vez",
     "type_recurring": "Recurrente",
+    "type_log": "Bitácora",
     "type_daily": "Diario",
     "type_weekly": "Semanal",
     "type_monthly": "Mensual",

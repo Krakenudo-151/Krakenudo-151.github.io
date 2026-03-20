@@ -256,6 +256,7 @@
     "no_cached_users": "Aucun utilisateur",
     "history": "Historique",
     "no_history": "Aucun historique",
+    "log_header": "Journal",
     "collapse_all": "Réduire tout",
     "expand_all": "Développer tout",
     "view_more_logs": "Voir plus",
@@ -510,7 +511,9 @@
     "delete_response_title": "Supprimer la réponse",
     "delete_response_message": "Voulez-vous vraiment supprimer cette réponse ? Cette action ne peut pas être annulée",
     "deleting_response": "Suppression de la réponse...",
-    "deleted_response_success": "Réponse supprimée avec succès"
+    "deleted_response_success": "Réponse supprimée avec succès",
+    "log_entry_title": "Ajouter au journal \"{title}\"",
+    "add_log_entry": "Ajouter"
   },
   "confirm_edit": {
     "title": "Modifier autrui",
@@ -702,7 +705,8 @@
     "x_months_ago": "-{count}m"
   },
   "reminder_card": {
-    "level0_no_notifications": "Muet (niv. 0)"
+    "level0_no_notifications": "Muet (niv. 0)",
+    "add_log_entry": "Ajouter"
   },
   "reminder_form": {
     "new_reminder": "Nouveau",
@@ -716,6 +720,7 @@
     "description": "Note",
     "type_once": "Unique",
     "type_recurring": "Récurrent",
+    "type_log": "Journal",
     "type_daily": "Quotidien",
     "type_weekly": "Hebdo",
     "type_monthly": "Mensuel",

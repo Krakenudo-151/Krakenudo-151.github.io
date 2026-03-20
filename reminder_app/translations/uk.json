@@ -259,6 +259,7 @@
     "no_cached_users": "Користувачів у кеші не знайдено",
     "history": "Історія",
     "no_history": "Історія недоступна",
+    "log_header": "Журнал",
     "collapse_all": "Згорнути всі",
     "expand_all": "Розгорнути всі",
     "view_more_logs": "Переглянути більше записів",
@@ -513,7 +514,9 @@
     "delete_response_title": "Видалити відповідь",
     "delete_response_message": "Ви впевнені, що хочете видалити цю відповідь? Цю дію неможливо скасувати",
     "deleting_response": "Видалення відповіді...",
-    "deleted_response_success": "Відповідь успішно видалено"
+    "deleted_response_success": "Відповідь успішно видалено",
+    "log_entry_title": "Записати до \"{title}\"",
+    "add_log_entry": "Записати"
   },
   "confirm_edit": {
     "title": "Редагувати відповідь іншого користувача",
@@ -705,7 +708,8 @@
     "x_months_ago": "-{count}міс"
   },
   "reminder_card": {
-    "level0_no_notifications": "Без сповіщень (рівень 0)"
+    "level0_no_notifications": "Без сповіщень (рівень 0)",
+    "add_log_entry": "Записати"
   },
   "reminder_form": {
     "new_reminder": "Нове нагадування",
@@ -719,6 +723,7 @@
     "description": "Опис",
     "type_once": "Одноразове",
     "type_recurring": "Повторюване",
+    "type_log": "Журнал",
     "type_daily": "Щодня",
     "type_weekly": "Щотижня",
     "type_monthly": "Щомісяця",

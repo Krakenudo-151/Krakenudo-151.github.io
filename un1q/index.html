@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Un1q — Red Social con Identidad Verificada</title>
+    <style>
+        :root {
+            --primary-color: #6d28d9;
+            --accent-color: #7c3aed;
+            --text-color: #1a1a2e;
+            --bg-color: #f5f3ff;
+            --card-bg: #fff;
+            --shadow-color: rgba(109,40,217,0.12);
+        }
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --primary-color: #a78bfa;
+                --accent-color: #c4b5fd;
+                --text-color: #e2e8f0;
+                --bg-color: #0f0a1e;
+                --card-bg: #1e1630;
+                --shadow-color: rgba(0,0,0,0.4);
+            }
+        }
+        * { box-sizing: border-box; }
+        body {
+            font-family: system-ui, -apple-system, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background: var(--bg-color);
+            color: var(--text-color);
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+        .container {
+            max-width: 600px;
+            width: 100%;
+            text-align: center;
+        }
+        .logo {
+            font-size: 3em;
+            font-weight: 900;
+            color: var(--primary-color);
+            letter-spacing: -2px;
+            margin-bottom: 0.2em;
+        }
+        .tagline {
+            font-size: 1.1em;
+            color: var(--text-color);
+            opacity: 0.75;
+            margin-bottom: 2.5em;
+        }
+        .cards {
+            display: flex;
+            gap: 16px;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+        .card {
+            background: var(--card-bg);
+            border-radius: 12px;
+            padding: 1.5em 2em;
+            box-shadow: 0 4px 16px var(--shadow-color);
+            text-decoration: none;
+            color: var(--text-color);
+            flex: 1;
+            min-width: 200px;
+            transition: transform 0.15s, box-shadow 0.15s;
+        }
+        .card:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 8px 24px var(--shadow-color);
+        }
+        .card-icon { font-size: 2em; margin-bottom: 0.3em; }
+        .card-title {
+            font-size: 1em;
+            font-weight: 700;
+            color: var(--primary-color);
+            margin-bottom: 0.3em;
+        }
+        .card-desc { font-size: 0.85em; opacity: 0.7; line-height: 1.4; }
+        footer {
+            margin-top: 3em;
+            font-size: 0.8em;
+            opacity: 0.5;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="logo">Un1q</div>
+        <p class="tagline">Red social con identidad verificada — 1 persona real, 1 usuario</p>
+
+        <div class="cards">
+            <a href="privacy.html" class="card">
+                <div class="card-icon">🔒</div>
+                <div class="card-title">Política de Privacidad</div>
+                <div class="card-desc">Cómo protegemos y tratamos tus datos personales</div>
+            </a>
+            <a href="terms.html" class="card">
+                <div class="card-icon">📋</div>
+                <div class="card-title">Términos de Uso</div>
+                <div class="card-desc">Normas de la comunidad y condiciones de servicio</div>
+            </a>
+            <a href="dpia.html" class="card">
+                <div class="card-icon">⚖️</div>
+                <div class="card-title">DPIA (Borrador)</div>
+                <div class="card-desc">Evaluación de impacto de protección de datos — Art. 35 RGPD</div>
+            </a>
+        </div>
+
+        <footer>
+            &copy; 2026 Un1q · Desarrollado en España
+        </footer>
+    </div>
+</body>
+</html>

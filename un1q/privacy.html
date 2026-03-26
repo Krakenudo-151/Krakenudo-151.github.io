@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Política de Privacidad — Un1q</title>
+    <style>
+        :root {
+            --primary-color: #6d28d9;
+            --text-color: #1a1a2e;
+            --bg-color: #f5f3ff;
+            --container-bg: #fff;
+            --shadow-color: rgba(109,40,217,0.1);
+        }
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --primary-color: #a78bfa;
+                --text-color: #e2e8f0;
+                --bg-color: #0f0a1e;
+                --container-bg: #1e1630;
+                --shadow-color: rgba(0,0,0,0.4);
+            }
+        }
+        body {
+            font-family: system-ui, -apple-system, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: var(--container-bg);
+            padding: 2em;
+            border-radius: 12px;
+            box-shadow: 0 2px 16px var(--shadow-color);
+        }
+        h1, h2, h3 { color: var(--primary-color); }
+        h1 {
+            text-align: center;
+            border-bottom: 2px solid var(--primary-color);
+            padding-bottom: 0.5em;
+        }
+        h2 { margin-top: 1.8em; }
+        section { margin-bottom: 2em; }
+        ul { padding-left: 1.5em; }
+        .updated {
+            text-align: center;
+            opacity: 0.6;
+            font-style: italic;
+            margin-bottom: 2em;
+        }
+        .back {
+            display: inline-block;
+            margin-bottom: 1em;
+            color: var(--primary-color);
+            text-decoration: none;
+            font-size: 0.9em;
+        }
+        .back:hover { text-decoration: underline; }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 0.9em;
+            margin-top: 0.5em;
+        }
+        th, td {
+            border: 1px solid rgba(109,40,217,0.2);
+            padding: 0.5em 0.75em;
+            text-align: left;
+        }
+        th { background: rgba(109,40,217,0.08); }
+        .highlight {
+            background: rgba(109,40,217,0.06);
+            border-left: 4px solid var(--primary-color);
+            padding: 0.75em 1em;
+            border-radius: 0 8px 8px 0;
+            margin: 1em 0;
+        }
+        @media (max-width: 600px) {
+            body { padding: 10px; }
+            .container { padding: 1em; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="index.html" class="back">← Volver</a>
+
+        <header>
+            <h1>Política de Privacidad</h1>
+            <p class="updated">Última actualización: 26 de marzo de 2026</p>
+        </header>
+
+        <main>
+            <section>
+                <h2>1. Responsable del Tratamiento</h2>
+                <p>De acuerdo con el Reglamento General de Protección de Datos (RGPD) y la Ley Orgánica 3/2018 (LOPDGDD):</p>
+                <ul>
+                    <li><strong>Responsable:</strong> Juan Manuel Gómez de Parada López</li>
+                    <li><strong>Condición:</strong> Desarrollador individual</li>
+                    <li><strong>Email de contacto:</strong> privacy@un1q.app</li>
+                    <li><strong>Jurisdicción:</strong> España, Unión Europea</li>
+                    <li><strong>Autoridad supervisora:</strong> Agencia Española de Protección de Datos (AEPD) —
+                        <a href="https://www.aepd.es" target="_blank" rel="noopener">www.aepd.es</a>
+                    </li>
+                </ul>
+            </section>
+
+            <section>
+                <h2>2. Qué es Un1q y por qué tratamos datos de identidad</h2>
+                <p>Un1q es una red social donde <strong>cada persona real corresponde a exactamente un usuario verificado</strong>. La verificación de identidad es el mecanismo central que garantiza que los usuarios baneados no puedan volver a registrarse y que toda conducta ilícita sea atribuible a una persona real.</p>
+                <div class="highlight">
+                    <strong>Principio clave:</strong> Guardamos el mínimo dato de identidad necesario para cumplir esta finalidad. No guardamos el DNI completo, ni la imagen facial, ni el nombre real.
+                </div>
+            </section>
+
+            <section>
+                <h2>3. Datos que recopilamos</h2>
+
+                <h3>3.1 Datos de perfil público</h3>
+                <ul>
+                    <li>Nombre de usuario (<em>username</em>) — visible para todos</li>
+                    <li>Nombre para mostrar (<em>display name</em>) — visible para todos</li>
+                    <li>Foto de perfil (opcional) — visible para todos</li>
+                    <li>Biografía (opcional) — visible para todos</li>
+                    <li>Correo electrónico — solo para autenticación, no visible públicamente</li>
+                </ul>
+
+                <h3>3.2 Contenido generado</h3>
+                <ul>
+                    <li>Publicaciones (texto, imágenes, vídeos, enlaces)</li>
+                    <li>Comentarios y reacciones a publicaciones</li>
+                    <li>Mensajes directos (cifrados de extremo a extremo en el dispositivo)</li>
+                    <li>Hashtags y tópicos asociados a publicaciones</li>
+                </ul>
+
+                <h3>3.3 Datos de verificación de identidad (nivel restringido)</h3>
+                <table>
+                    <tr><th>Dato</th><th>¿Se guarda?</th><th>Observaciones</th></tr>
+                    <tr><td>Fotografía del DNI/pasaporte</td><td>❌ No</td><td>Destruida tras la extracción</td></tr>
+                    <tr><td>Imagen facial / selfie</td><td>❌ No</td><td>Destruida tras el procesamiento</td></tr>
+                    <tr><td>Nombre y apellidos</td><td>❌ No</td><td>No son necesarios para el sistema</td></tr>
+                    <tr><td>Número de DNI/NIE cifrado</td><td>✅ Sí</td><td>Cifrado AES-256, acceso muy restringido</td></tr>
+                    <tr><td>Token de identidad KYC</td><td>✅ Sí</td><td>Proporcionado por proveedor KYC certificado</td></tr>
+                    <tr><td>ID interno de usuario</td><td>✅ Sí</td><td>Vincula token KYC con la cuenta</td></tr>
+                </table>
+
+                <h3>3.4 Datos de uso</h3>
+                <ul>
+                    <li>Registros de sesión y actividad en la aplicación</li>
+                    <li>Historial de sanciones (si las hubiera): motivo, fecha, duración</li>
+                    <li>Reportes realizados o recibidos</li>
+                </ul>
+            </section>
+
+            <section>
+                <h2>4. Base legal del tratamiento (RGPD Art. 6)</h2>
+
+                <h3>4.1 Ejecución de contrato (Art. 6.1.b)</h3>
+                <ul>
+                    <li>Crear y gestionar tu cuenta</li>
+                    <li>Publicar contenido y participar en la red social</li>
+                    <li>Enviar y recibir mensajes directos</li>
+                </ul>
+
+                <h3>4.2 Interés legítimo (Art. 6.1.f)</h3>
+                <ul>
+                    <li>Verificar que cada persona real corresponde a un único usuario</li>
+                    <li>Prevenir el re-registro de usuarios baneados</li>
+                    <li>Mantener un entorno seguro y libre de conductas ilícitas</li>
+                </ul>
+                <p>Este tratamiento es proporcional y necesario: sin el dato de identidad, cualquier persona sancionada podría volver a registrarse de inmediato con una nueva cuenta, anulando el sistema de sanciones.</p>
+
+                <h3>4.3 Obligación legal (Art. 6.1.c)</h3>
+                <ul>
+                    <li>Responder a requerimientos judiciales o de la Fiscalía en caso de conductas ilícitas graves</li>
+                    <li>Cumplir con las obligaciones del Registro de Actividades de Tratamiento</li>
+                </ul>
+
+                <h3>4.4 Consentimiento (Art. 6.1.a)</h3>
+                <ul>
+                    <li>Envío de notificaciones push (si se autoriza en el dispositivo)</li>
+                    <li>Tratamiento de datos de categoría especial en la verificación biométrica — delegado al proveedor KYC</li>
+                </ul>
+            </section>
+
+            <section>
+                <h2>5. Arquitectura de datos — Tres niveles de acceso</h2>
+
+                <h3>Nivel 1 — Público</h3>
+                <p>Username, foto de perfil, publicaciones, comentarios, fecha de registro. Visible para todos los usuarios de la plataforma.</p>
+
+                <h3>Nivel 2 — Solo acceso de administrador</h3>
+                <p>Número de DNI cifrado (AES-256), historial de sanciones, log de accesos a datos de identidad.</p>
+
+                <h3>Nivel 3 — Solo bajo orden judicial o denuncia penal</h3>
+                <p>Descifrado del número de DNI. El proceso es 100% documentado y auditable. Solo puede iniciarlo el responsable de la plataforma ante requerimiento formal de la Policía o la Fiscalía.</p>
+            </section>
+
+            <section>
+                <h2>6. Compartición de datos con terceros</h2>
+
+                <h3>6.1 Proveedores de servicio (procesadores RGPD Art. 28)</h3>
+                <ul>
+                    <li><strong>Supabase</strong> (UE/USA): Base de datos, autenticación y almacenamiento. Transferencias protegidas mediante Cláusulas Contractuales Estándar.</li>
+                    <li><strong>Proveedor KYC certificado</strong> (Alice Biometrics o Veriff): Verificación de identidad en el registro. Custodian el dato biométrico bajo su propio marco de compliance GDPR. Nosotros solo recibimos el token de identidad, nunca el DNI ni la imagen.</li>
+                </ul>
+
+                <h3>6.2 Autoridades competentes</h3>
+                <p>En caso de conducta ilícita grave (amenazas, contenido de abuso sexual infantil, incitación a la violencia…), el número de DNI puede descifrarse e incluirse en una denuncia formal ante la Policía o la Fiscalía. Este proceso queda documentado en el log de auditoría.</p>
+            </section>
+
+            <section>
+                <h2>7. Retención de datos</h2>
+                <ul>
+                    <li><strong>Usuarios activos:</strong> Mientras la cuenta esté activa</li>
+                    <li><strong>Tras eliminar la cuenta:</strong> Los datos de perfil y contenido público se eliminan en un plazo de 30 días</li>
+                    <li><strong>Usuarios con sanción temporal (cooldown):</strong> Datos conservados durante la vigencia de la sanción y 30 días adicionales</li>
+                    <li><strong>Usuarios con ban permanente — contenido y logs:</strong> Las publicaciones, comentarios, mensajes y el registro detallado de la sanción se conservan durante <strong>5 años</strong> para posibles procedimientos judiciales, tras lo cual se eliminan de forma documentada.</li>
+                    <li><strong>Usuarios con ban permanente — token de identidad (blocklist):</strong> El token de identidad KYC se conserva <strong>indefinidamente</strong>. Este dato es mínimo (un identificador opaco, no el DNI ni ningún dato biométrico) y su retención permanente está justificada por interés legítimo (Art. 6.1.f RGPD): impedir que una persona cuya conducta fue considerada incompatible con la convivencia en la plataforma pueda volver a registrarse en cualquier momento futuro. Esta finalidad no caduca con el tiempo.</li>
+                </ul>
+            </section>
+
+            <section>
+                <h2>8. Tus derechos (RGPD)</h2>
+                <p>Puedes ejercer los siguientes derechos enviando una solicitud a <strong>privacy@un1q.app</strong>:</p>
+                <ul>
+                    <li><strong>Acceso (Art. 15):</strong> Saber qué datos tenemos sobre ti</li>
+                    <li><strong>Rectificación (Art. 16):</strong> Corregir datos inexactos</li>
+                    <li><strong>Supresión (Art. 17):</strong> Eliminar tu cuenta y datos — con período de gracia de 30 días. No aplica a datos retenidos por obligación legal o interés legítimo de seguridad.</li>
+                    <li><strong>Portabilidad (Art. 20):</strong> Exportar tus datos en formato legible</li>
+                    <li><strong>Oposición (Art. 21):</strong> Oponerte al tratamiento basado en interés legítimo</li>
+                    <li><strong>Limitación (Art. 18):</strong> Restringir el tratamiento mientras se resuelve una reclamación</li>
+                </ul>
+                <p>Responderemos en un plazo máximo de <strong>30 días naturales</strong>.</p>
+                <p>Tienes derecho a presentar una reclamación ante la AEPD: <a href="https://www.aepd.es" target="_blank" rel="noopener">www.aepd.es</a></p>
+            </section>
+
+            <section>
+                <h2>9. Seguridad</h2>
+                <ul>
+                    <li>Cifrado AES-256 para datos de identidad sensibles</li>
+                    <li>Mensajes directos cifrados de extremo a extremo (XSalsa20-Poly1305)</li>
+                    <li>Autenticación con 2FA opcional (TOTP)</li>
+                    <li>Row Level Security (RLS) en base de datos: cada usuario solo puede acceder a sus propios datos</li>
+                    <li>Log de auditoría para cualquier acceso a datos de Nivel 2 o 3</li>
+                    <li>Revisión periódica de seguridad</li>
+                </ul>
+            </section>
+
+            <section>
+                <h2>10. Menores de edad</h2>
+                <p>Un1q requiere verificación de identidad mediante documento oficial. Dado que el proceso de verificación KYC está diseñado para mayores de edad, <strong>la aplicación está destinada a usuarios mayores de 18 años</strong>. No recopilamos conscientemente datos de menores. Si detectamos el uso por parte de un menor, eliminaremos su cuenta de forma inmediata.</p>
+            </section>
+
+            <section>
+                <h2>11. Cambios en esta política</h2>
+                <p>Podemos actualizar esta política cuando sea necesario. Te notificaremos dentro de la app con al menos 15 días de antelación antes de que entren en vigor cambios materiales.</p>
+            </section>
+
+            <section>
+                <h2>12. Contacto</h2>
+                <ul>
+                    <li><strong>Email:</strong> privacy@un1q.app</li>
+                </ul>
+            </section>
+        </main>
+    </div>
+</body>
+</html>

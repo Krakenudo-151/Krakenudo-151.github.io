@@ -257,6 +257,7 @@
     "history": "Histórico",
     "no_history": "Não há histórico disponível",
     "log_header": "Registro",
+    "log_entries": "Entradas",
     "collapse_all": "Recolher tudo",
     "expand_all": "Expandir tudo",
     "view_more_logs": "Ver mais registros",

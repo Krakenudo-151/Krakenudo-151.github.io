@@ -257,6 +257,7 @@
     "history": "Geschiedenis",
     "no_history": "Er is geen geschiedenis beschikbaar.",
     "log_header": "Logboek",
+    "log_entries": "Vermeldingen",
     "collapse_all": "Alles samenvouwen",
     "expand_all": "Alles uitvouwen",
     "view_more_logs": "Meer logs bekijken",

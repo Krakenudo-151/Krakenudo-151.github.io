@@ -260,6 +260,7 @@
     "history": "Historik",
     "no_history": "Ingen tilgængelig historik",
     "log_header": "Logbog",
+    "log_entries": "Poster",
     "collapse_all": "Sammenfold alle",
     "expand_all": "Udvid alle",
     "view_more_logs": "Se flere logfiler",

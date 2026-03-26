@@ -260,6 +260,7 @@
     "history": "Historial",
     "no_history": "No hay historial disponible",
     "log_header": "Bitácora",
+    "log_entries": "Entradas",
     "collapse_all": "Colapsar todo",
     "expand_all": "Expandir todo",
     "view_more_logs": "Ver más logs",

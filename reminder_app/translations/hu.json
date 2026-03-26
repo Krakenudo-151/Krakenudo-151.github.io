@@ -260,6 +260,7 @@
     "history": "Előzmények",
     "no_history": "Nincs elérhető előzmény",
     "log_header": "Napló",
+    "log_entries": "Bejegyzések",
     "collapse_all": "Összes összecsukása",
     "expand_all": "Összes kibontása",
     "view_more_logs": "További naplók megtekintése",

@@ -260,6 +260,7 @@
     "history": "History",
     "no_history": "No history available",
     "log_header": "Logbook",
+    "log_entries": "Entries",
     "collapse_all": "Collapse all",
     "expand_all": "Expand all",
     "view_more_logs": "See more logs",

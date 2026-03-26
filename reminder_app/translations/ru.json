@@ -260,6 +260,7 @@
     "history": "История",
     "no_history": "Нет истории",
     "log_header": "Журнал",
+    "log_entries": "Записи",
     "collapse_all": "Свернуть",
     "expand_all": "Развернуть",
     "view_more_logs": "Еще",

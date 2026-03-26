@@ -257,6 +257,7 @@
     "history": "Historik",
     "no_history": "Ingen historik tillgänglig",
     "log_header": "Loggbok",
+    "log_entries": "Poster",
     "collapse_all": "Kollapsa allt",
     "expand_all": "Expandera allt",
     "view_more_logs": "Visa fler loggar",

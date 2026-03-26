@@ -259,6 +259,7 @@
     "history": "历史记录",
     "no_history": "没有可用的历史记录",
     "log_header": "日志",
+    "log_entries": "条目",
     "collapse_all": "全部收起",
     "expand_all": "全部展开",
     "view_more_logs": "查看更多日志",

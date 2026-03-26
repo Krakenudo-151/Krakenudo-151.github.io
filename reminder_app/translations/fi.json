@@ -260,6 +260,7 @@
     "history": "Historia",
     "no_history": "Ei saatavilla olevaa historiaa",
     "log_header": "Lokikirja",
+    "log_entries": "Merkinnät",
     "collapse_all": "Pienennä kaikki",
     "expand_all": "Laajenna kaikki",
     "view_more_logs": "Näytä lisää lokeja",

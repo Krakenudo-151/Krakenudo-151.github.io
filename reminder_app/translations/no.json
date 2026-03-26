@@ -259,6 +259,7 @@
     "history": "Historikk",
     "no_history": "Ingen historikk tilgjengelig",
     "log_header": "Loggbok",
+    "log_entries": "Poster",
     "collapse_all": "Skjul alle",
     "expand_all": "Vis alle",
     "view_more_logs": "Se flere logger",

@@ -257,6 +257,7 @@
     "history": "Verlauf",
     "no_history": "Keine Historie verfügbar",
     "log_header": "Logbuch",
+    "log_entries": "Einträge",
     "collapse_all": "Alles zusammenklappen",
     "expand_all": "Alles erweitern",
     "view_more_logs": "Weitere Protokolle anzeigen",

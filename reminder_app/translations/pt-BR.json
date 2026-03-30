@@ -487,6 +487,10 @@
     "select_at_least_one_day": "Selecione pelo menos um dia"
   },
   "reminder_response": {
+    "select_date": "Selecionar data",
+    "today": "Hoje",
+    "yesterday": "Ontem",
+    "pick_date": "Outro...",
     "edit_response": "Editar resposta",
     "complete_title": "Preencher \"{title}\"",
     "close_tooltip": "Fechar",

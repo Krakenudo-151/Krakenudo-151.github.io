@@ -487,6 +487,10 @@
     "select_at_least_one_day": "Scegli un giorno"
   },
   "reminder_response": {
+    "select_date": "Seleziona data",
+    "today": "Oggi",
+    "yesterday": "Ieri",
+    "pick_date": "Altro...",
     "edit_response": "Modifica",
     "complete_title": "Fatto « {title} »",
     "close_tooltip": "Chiudi",

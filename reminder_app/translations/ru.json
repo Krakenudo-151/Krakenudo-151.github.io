@@ -490,6 +490,10 @@
     "select_at_least_one_day": "Выберите день"
   },
   "reminder_response": {
+    "select_date": "Выбрать дату",
+    "today": "Сегодня",
+    "yesterday": "Вчера",
+    "pick_date": "Другое...",
     "edit_response": "Редактировать",
     "complete_title": "Завершить \"{title}\"",
     "close_tooltip": "Закрыть",

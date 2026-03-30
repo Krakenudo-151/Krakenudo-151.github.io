@@ -490,6 +490,10 @@
     "select_at_least_one_day": "Selectați cel puțin o zi"
   },
   "reminder_response": {
+    "select_date": "Selectați data",
+    "today": "Astăzi",
+    "yesterday": "Ieri",
+    "pick_date": "Altele...",
     "edit_response": "Editează răspuns",
     "complete_title": "Completează \"{title}\"",
     "close_tooltip": "Închide",

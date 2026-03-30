@@ -487,6 +487,10 @@
     "select_at_least_one_day": "Wählen Sie mindestens einen Tag"
   },
   "reminder_response": {
+    "select_date": "Datum auswählen",
+    "today": "Heute",
+    "yesterday": "Gestern",
+    "pick_date": "Andere...",
     "edit_response": "Antwort bearbeiten",
     "complete_title": "„{title}“ ausfüllen",
     "close_tooltip": "Schließen",

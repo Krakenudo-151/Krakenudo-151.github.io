@@ -490,6 +490,10 @@
     "select_at_least_one_day": "Vyberte alespoň jeden den"
   },
   "reminder_response": {
+    "select_date": "Vybrat datum",
+    "today": "Dnes",
+    "yesterday": "Včera",
+    "pick_date": "Jiné...",
     "edit_response": "Upravit odpověď",
     "complete_title": "Dokončit \"{title}\"",
     "close_tooltip": "Zavřít",

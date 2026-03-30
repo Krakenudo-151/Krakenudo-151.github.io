@@ -490,6 +490,10 @@
     "select_at_least_one_day": "至少選擇一天"
   },
   "reminder_response": {
+    "select_date": "選擇日期",
+    "today": "今天",
+    "yesterday": "昨天",
+    "pick_date": "其他...",
     "edit_response": "編輯回答",
     "complete_title": "完成「{title}」",
     "close_tooltip": "關閉",

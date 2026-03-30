@@ -490,6 +490,10 @@
     "select_at_least_one_day": "Válasszon legalább egy napot"
   },
   "reminder_response": {
+    "select_date": "Dátum kiválasztása",
+    "today": "Ma",
+    "yesterday": "Tegnap",
+    "pick_date": "Egyéb...",
     "edit_response": "Válasz szerkesztése",
     "complete_title": "\"{title}\" befejezése",
     "close_tooltip": "Bezárás",

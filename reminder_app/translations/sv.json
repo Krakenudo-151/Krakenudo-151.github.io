@@ -487,6 +487,10 @@
     "select_at_least_one_day": "Välj minst en dag"
   },
   "reminder_response": {
+    "select_date": "Välj datum",
+    "today": "Idag",
+    "yesterday": "Igår",
+    "pick_date": "Annat...",
     "edit_response": "Redigera svar",
     "complete_title": "Fyll i \"{title}\"",
     "close_tooltip": "Stäng",

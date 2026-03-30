@@ -487,6 +487,10 @@
     "select_at_least_one_day": "Επιλέξτε τουλάχιστον μία ημέρα"
   },
   "reminder_response": {
+    "select_date": "Επιλογή ημερομηνίας",
+    "today": "Σήμερα",
+    "yesterday": "Χθες",
+    "pick_date": "Άλλο...",
     "edit_response": "Επεξεργασία απάντησης",
     "complete_title": "Συμπλήρωση \"{title}\"",
     "close_tooltip": "Κλείσιμο",

@@ -490,6 +490,10 @@
     "select_at_least_one_day": "Bir gün seçin"
   },
   "reminder_response": {
+    "select_date": "Tarih Seç",
+    "today": "Bugün",
+    "yesterday": "Dün",
+    "pick_date": "Diğer...",
     "edit_response": "Düzenle",
     "complete_title": "\"{title}\" tamamla",
     "close_tooltip": "Kapat",

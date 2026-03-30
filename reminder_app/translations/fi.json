@@ -490,6 +490,10 @@
     "select_at_least_one_day": "Valitse vähintään yksi päivä"
   },
   "reminder_response": {
+    "select_date": "Valitse päivämäärä",
+    "today": "Tänään",
+    "yesterday": "Eilen",
+    "pick_date": "Muu...",
     "edit_response": "Muokkaa vastausta",
     "complete_title": "Suorita \"{title}\"",
     "close_tooltip": "Sulje",

@@ -487,6 +487,10 @@
     "select_at_least_one_day": "Selecteer ten minste één dag"
   },
   "reminder_response": {
+    "select_date": "Datum selecteren",
+    "today": "Vandaag",
+    "yesterday": "Gisteren",
+    "pick_date": "Anders...",
     "edit_response": "Antwoord bewerken",
     "complete_title": "Vul \"{title}\" in",
     "close_tooltip": "Sluiten",

@@ -490,6 +490,10 @@
     "select_at_least_one_day": "Select at least one day"
   },
   "reminder_response": {
+    "select_date": "Select Date",
+    "today": "Today",
+    "yesterday": "Yesterday",
+    "pick_date": "Other...",
     "edit_response": "Edit response",
     "complete_title": "Complete \"{title}\"",
     "close_tooltip": "Close",
